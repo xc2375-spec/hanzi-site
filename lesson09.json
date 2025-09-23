@@ -1,0 +1,393 @@
+{
+  "meta": {
+    "lesson": 9,
+    "title": "第九課",
+    "grade": null
+  },
+  "entries": [
+    {
+      "idx": 1,
+      "trad": "中藥",
+      "simp": "中药",
+      "pinyin": "zhōngyào",
+      "pos": "N",
+      "english": "Chinese herbal medicine"
+    },
+    {
+      "idx": 2,
+      "trad": "得",
+      "simp": "得",
+      "pinyin": "dé",
+      "pos": "V",
+      "english": "to get; to obtain"
+    },
+    {
+      "idx": 3,
+      "trad": "病",
+      "simp": "病",
+      "pinyin": "bìng",
+      "pos": "N",
+      "english": "disease"
+    },
+    {
+      "idx": 4,
+      "trad": "得",
+      "simp": "得",
+      "pinyin": "děi",
+      "pos": "MV",
+      "english": "to have to; must"
+    },
+    {
+      "idx": 5,
+      "trad": "西藥",
+      "simp": "西药",
+      "pinyin": "xīyào",
+      "pos": "N",
+      "english": "Western medicine"
+    },
+    {
+      "idx": 6,
+      "trad": "看上去",
+      "simp": "看上去",
+      "pinyin": "kànshàngqù",
+      "pos": "VP",
+      "english": "to look; to seem; to appear"
+    },
+    {
+      "idx": 7,
+      "trad": "草根",
+      "simp": "草根",
+      "pinyin": "cǎogēn",
+      "pos": "N",
+      "english": "grass roots; roots of an herb"
+    },
+    {
+      "idx": 8,
+      "trad": "樹葉",
+      "simp": "树叶",
+      "pinyin": "shùyè",
+      "pos": "N",
+      "english": "leaf"
+    },
+    {
+      "idx": 9,
+      "trad": "水果",
+      "simp": "水果",
+      "pinyin": "shuǐguǒ",
+      "pos": "N",
+      "english": "fruit"
+    },
+    {
+      "idx": 10,
+      "trad": "皮",
+      "simp": "皮",
+      "pinyin": "pí",
+      "pos": "N",
+      "english": "skin"
+    },
+    {
+      "idx": 11,
+      "trad": "呀",
+      "simp": "呀",
+      "pinyin": "ya",
+      "pos": "Pt.",
+      "english": "soft tone marker"
+    },
+    {
+      "idx": 12,
+      "trad": "蟲子",
+      "simp": "虫子",
+      "pinyin": "chóngzi",
+      "pos": "N",
+      "english": "insect"
+    },
+    {
+      "idx": 13,
+      "trad": "要是",
+      "simp": "要是",
+      "pinyin": "yàoshi",
+      "pos": "Conj.",
+      "english": "if"
+    },
+    {
+      "idx": 14,
+      "trad": "也許",
+      "simp": "也许",
+      "pinyin": "yěxǔ",
+      "pos": "Adv.",
+      "english": "perhaps; maybe"
+    },
+    {
+      "idx": 15,
+      "trad": "治病",
+      "simp": "治病",
+      "pinyin": "zhìbìng",
+      "pos": "VO",
+      "english": "to treat a disease"
+    },
+    {
+      "idx": 16,
+      "trad": "試",
+      "simp": "试",
+      "pinyin": "shì",
+      "pos": "V",
+      "english": "to try"
+    },
+    {
+      "idx": 17,
+      "trad": "求",
+      "simp": "求",
+      "pinyin": "qiú",
+      "pos": "V",
+      "english": "to beg; to pray for"
+    },
+    {
+      "idx": 18,
+      "trad": "保佑",
+      "simp": "保佑",
+      "pinyin": "bǎoyòu",
+      "pos": "V",
+      "english": "to bless; to protect (by God)"
+    },
+    {
+      "idx": 19,
+      "trad": "差不多",
+      "simp": "差不多",
+      "pinyin": "chàbuduō",
+      "pos": "SV/Adv.",
+      "english": "about; almost"
+    },
+    {
+      "idx": 20,
+      "trad": "要不然",
+      "simp": "要不然",
+      "pinyin": "yàobùrán",
+      "pos": "Conj.",
+      "english": "otherwise"
+    },
+    {
+      "idx": 21,
+      "trad": "等",
+      "simp": "等",
+      "pinyin": "děng",
+      "pos": "V",
+      "english": "to wait"
+    },
+    {
+      "idx": 22,
+      "trad": "姜",
+      "simp": "姜",
+      "pinyin": "jiāng",
+      "pos": "N",
+      "english": "family name; ginger"
+    },
+    {
+      "idx": 23,
+      "trad": "首先…後來",
+      "simp": "首先…后来",
+      "pinyin": "shǒuxiān… hòulái",
+      "pos": "Adv.",
+      "english": "first… then…"
+    },
+    {
+      "idx": 24,
+      "trad": "教",
+      "simp": "教",
+      "pinyin": "jiāo",
+      "pos": "V",
+      "english": "to teach"
+    },
+    {
+      "idx": 25,
+      "trad": "種地",
+      "simp": "种地",
+      "pinyin": "zhòngdì",
+      "pos": "VO",
+      "english": "to farm; to cultivate the land"
+    },
+    {
+      "idx": 26,
+      "trad": "親自",
+      "simp": "亲自",
+      "pinyin": "qīnzì",
+      "pos": "Adv.",
+      "english": "personally; in person"
+    },
+    {
+      "idx": 27,
+      "trad": "嘗",
+      "simp": "尝",
+      "pinyin": "cháng",
+      "pos": "V",
+      "english": "to taste; to try (food)"
+    },
+    {
+      "idx": 28,
+      "trad": "毒",
+      "simp": "毒",
+      "pinyin": "dú",
+      "pos": "N",
+      "english": "poison"
+    },
+    {
+      "idx": 29,
+      "trad": "吐",
+      "simp": "吐",
+      "pinyin": "tǔ",
+      "pos": "V",
+      "english": "to vomit"
+    },
+    {
+      "idx": 30,
+      "trad": "瀉(肚子)",
+      "simp": "泻(肚子)",
+      "pinyin": "xiè (dùzi)",
+      "pos": "V(O)",
+      "english": "to have diarrhea"
+    },
+    {
+      "idx": 31,
+      "trad": "差一點",
+      "simp": "差一点",
+      "pinyin": "chà yìdiǎn",
+      "pos": "Adv.",
+      "english": "almost"
+    },
+    {
+      "idx": 32,
+      "trad": "大家",
+      "simp": "大家",
+      "pinyin": "dàjiā",
+      "pos": "N",
+      "english": "all of us; everyone"
+    },
+    {
+      "idx": 33,
+      "trad": "健康",
+      "simp": "健康",
+      "pinyin": "jiànkāng",
+      "pos": "N/SV",
+      "english": "health; healthy"
+    },
+    {
+      "idx": 34,
+      "trad": "危險",
+      "simp": "危险",
+      "pinyin": "wēixiǎn",
+      "pos": "N/SV",
+      "english": "danger; dangerous"
+    },
+    {
+      "idx": 35,
+      "trad": "許多",
+      "simp": "许多",
+      "pinyin": "xǔduō",
+      "pos": "Adv.",
+      "english": "many"
+    },
+    {
+      "idx": 36,
+      "trad": "普通人",
+      "simp": "普通人",
+      "pinyin": "pǔtōngrén",
+      "pos": "N",
+      "english": "ordinary people; commoners"
+    },
+    {
+      "idx": 37,
+      "trad": "感謝",
+      "simp": "感谢",
+      "pinyin": "gǎnxiè",
+      "pos": "V",
+      "english": "to thank; to be grateful"
+    },
+    {
+      "idx": 38,
+      "trad": "活",
+      "simp": "活",
+      "pinyin": "huó",
+      "pos": "V",
+      "english": "to live"
+    },
+    {
+      "idx": 39,
+      "trad": "歲",
+      "simp": "岁",
+      "pinyin": "suì",
+      "pos": "MW",
+      "english": "year (of age)"
+    },
+    {
+      "idx": 40,
+      "trad": "記下來",
+      "simp": "记下来",
+      "pinyin": "jìxiàlái",
+      "pos": "VP",
+      "english": "to take down; to record"
+    },
+    {
+      "idx": 41,
+      "trad": "難吃",
+      "simp": "难吃",
+      "pinyin": "nánchī",
+      "pos": "SV",
+      "english": "bad-tasting; distasteful"
+    },
+    {
+      "idx": 42,
+      "trad": "味道",
+      "simp": "味道",
+      "pinyin": "wèidào",
+      "pos": "N",
+      "english": "taste"
+    },
+    {
+      "idx": 43,
+      "trad": "有效",
+      "simp": "有效",
+      "pinyin": "yǒuxiào",
+      "pos": "SV",
+      "english": "effective"
+    },
+    {
+      "idx": 44,
+      "trad": "種",
+      "simp": "种",
+      "pinyin": "zhǒng",
+      "pos": "MW",
+      "english": "kind; type"
+    },
+    {
+      "idx": 45,
+      "trad": "果皮",
+      "simp": "果皮",
+      "pinyin": "guǒpí",
+      "pos": "N",
+      "english": "fruit skin"
+    },
+    {
+      "idx": 46,
+      "trad": "小看",
+      "simp": "小看",
+      "pinyin": "xiǎokàn",
+      "pos": "V",
+      "english": "to despise; to look down upon"
+    },
+    {
+      "idx": 47,
+      "trad": "醫生",
+      "simp": "医生",
+      "pinyin": "yīshēng",
+      "pos": "N",
+      "english": "doctor"
+    },
+    {
+      "idx": 48,
+      "trad": "剛",
+      "simp": "刚",
+      "pinyin": "gāng",
+      "pos": "Adv.",
+      "english": "moment ago; just"
+    }
+  ]
+}

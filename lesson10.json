@@ -1,0 +1,577 @@
+{
+  "meta": {
+    "lesson": 10,
+    "title": "第十課",
+    "grade": null
+  },
+  "entries": [
+    {
+      "idx": 1,
+      "trad": "氣候",
+      "simp": "气候",
+      "pinyin": "qìhòu",
+      "pos": "N",
+      "english": "climate; weather"
+    },
+    {
+      "idx": 2,
+      "trad": "飲食",
+      "simp": "饮食",
+      "pinyin": "yǐnshí",
+      "pos": "N",
+      "english": "food and drink; diet"
+    },
+    {
+      "idx": 3,
+      "trad": "習慣",
+      "simp": "习惯",
+      "pinyin": "xíguàn",
+      "pos": "N/V",
+      "english": "custom; habit; to become accustomed to"
+    },
+    {
+      "idx": 4,
+      "trad": "主食",
+      "simp": "主食",
+      "pinyin": "zhǔshí",
+      "pos": "N",
+      "english": "staple food; principal food"
+    },
+    {
+      "idx": 5,
+      "trad": "溫和",
+      "simp": "温和",
+      "pinyin": "wēnhé",
+      "pos": "SV",
+      "english": "mild; moderate"
+    },
+    {
+      "idx": 6,
+      "trad": "季",
+      "simp": "季",
+      "pinyin": "jì",
+      "pos": "N",
+      "english": "season of the year"
+    },
+    {
+      "idx": 7,
+      "trad": "新鮮",
+      "simp": "新鲜",
+      "pinyin": "xīnxian",
+      "pos": "SV",
+      "english": "fresh; new"
+    },
+    {
+      "idx": 8,
+      "trad": "品種",
+      "simp": "品种",
+      "pinyin": "pǐnzhǒng",
+      "pos": "N",
+      "english": "breed; variety"
+    },
+    {
+      "idx": 9,
+      "trad": "主要",
+      "simp": "主要",
+      "pinyin": "zhǔyào",
+      "pos": "SV",
+      "english": "main; major"
+    },
+    {
+      "idx": 10,
+      "trad": "等",
+      "simp": "等",
+      "pinyin": "děng",
+      "pos": "N",
+      "english": "etc."
+    },
+    {
+      "idx": 11,
+      "trad": "比較",
+      "simp": "比较",
+      "pinyin": "bǐjiào",
+      "pos": "Adv./V",
+      "english": "relatively; to compare"
+    },
+    {
+      "idx": 12,
+      "trad": "各",
+      "simp": "各",
+      "pinyin": "gè",
+      "pos": "Pron.",
+      "english": "each; every"
+    },
+    {
+      "idx": 13,
+      "trad": "特點",
+      "simp": "特点",
+      "pinyin": "tèdiǎn",
+      "pos": "N",
+      "english": "characteristic; distinguishing feature"
+    },
+    {
+      "idx": 14,
+      "trad": "總的來說",
+      "simp": "总的来说",
+      "pinyin": "zǒngdeláishuō",
+      "pos": "IE",
+      "english": "generally speaking"
+    },
+    {
+      "idx": 15,
+      "trad": "甜",
+      "simp": "甜",
+      "pinyin": "tián",
+      "pos": "SV",
+      "english": "sweet"
+    },
+    {
+      "idx": 16,
+      "trad": "鹹",
+      "simp": "咸",
+      "pinyin": "xián",
+      "pos": "SV",
+      "english": "salty"
+    },
+    {
+      "idx": 17,
+      "trad": "辣",
+      "simp": "辣",
+      "pinyin": "là",
+      "pos": "SV",
+      "english": "hot; peppery; spicy"
+    },
+    {
+      "idx": 18,
+      "trad": "或者",
+      "simp": "或者",
+      "pinyin": "huòzhě",
+      "pos": "Conj.",
+      "english": "either ... or (in affirmative sentence)"
+    },
+    {
+      "idx": 19,
+      "trad": "酸",
+      "simp": "酸",
+      "pinyin": "suān",
+      "pos": "SV",
+      "english": "sour; tart"
+    },
+    {
+      "idx": 20,
+      "trad": "講究",
+      "simp": "讲究",
+      "pinyin": "jiǎngjiu",
+      "pos": "SV/V",
+      "english": "to be particular about; to stress; to strive for"
+    },
+    {
+      "idx": 21,
+      "trad": "切",
+      "simp": "切",
+      "pinyin": "qiē",
+      "pos": "V",
+      "english": "to cut; to slice"
+    },
+    {
+      "idx": 22,
+      "trad": "形狀",
+      "simp": "形状",
+      "pinyin": "xíngzhuàng",
+      "pos": "N",
+      "english": "shape; form"
+    },
+    {
+      "idx": 23,
+      "trad": "方法",
+      "simp": "方法",
+      "pinyin": "fāngfǎ",
+      "pos": "N",
+      "english": "method; way; means"
+    },
+    {
+      "idx": 24,
+      "trad": "重要",
+      "simp": "重要",
+      "pinyin": "zhòngyào",
+      "pos": "SV",
+      "english": "important"
+    },
+    {
+      "idx": 25,
+      "trad": "請客",
+      "simp": "请客",
+      "pinyin": "qǐngkè",
+      "pos": "VO",
+      "english": "to entertain guests; to give a dinner party"
+    },
+    {
+      "idx": 26,
+      "trad": "不但……而且",
+      "simp": "不但……而且",
+      "pinyin": "bùdàn… érqiě",
+      "pos": "Conj.",
+      "english": "not only… but also"
+    },
+    {
+      "idx": 27,
+      "trad": "準備",
+      "simp": "准备",
+      "pinyin": "zhǔnbèi",
+      "pos": "V/N",
+      "english": "to prepare; to get ready; preparation"
+    },
+    {
+      "idx": 28,
+      "trad": "不管……都",
+      "simp": "不管……都",
+      "pinyin": "bùguǎn… dōu",
+      "pos": "Conj.",
+      "english": "no matter; regardless of"
+    },
+    {
+      "idx": 29,
+      "trad": "聞",
+      "simp": "闻",
+      "pinyin": "wén",
+      "pos": "V",
+      "english": "to smell"
+    },
+    {
+      "idx": 30,
+      "trad": "民族",
+      "simp": "民族",
+      "pinyin": "mínzú",
+      "pos": "N",
+      "english": "ethnic group; nationality"
+    },
+    {
+      "idx": 31,
+      "trad": "雖然……但是",
+      "simp": "虽然……但是",
+      "pinyin": "suīrán… dànshì",
+      "pos": "Conj.",
+      "english": "although; though"
+    },
+    {
+      "idx": 32,
+      "trad": "筷子",
+      "simp": "筷子",
+      "pinyin": "kuàizi",
+      "pos": "N",
+      "english": "chopsticks"
+    },
+    {
+      "idx": 33,
+      "trad": "重視",
+      "simp": "重视",
+      "pinyin": "zhòngshì",
+      "pos": "V",
+      "english": "to pay attention to; to take something seriously"
+    },
+    {
+      "idx": 34,
+      "trad": "座位",
+      "simp": "座位",
+      "pinyin": "zuòwèi",
+      "pos": "N",
+      "english": "seat; place"
+    },
+    {
+      "idx": 35,
+      "trad": "叫做",
+      "simp": "叫做",
+      "pinyin": "jiàozuò",
+      "pos": "V",
+      "english": "to be called; to be known as"
+    },
+    {
+      "idx": 36,
+      "trad": "上座",
+      "simp": "上座",
+      "pinyin": "shàngzuò",
+      "pos": "N",
+      "english": "the seat for the guest of honor"
+    },
+    {
+      "idx": 37,
+      "trad": "按照",
+      "simp": "按照",
+      "pinyin": "ànzhào",
+      "pos": "Prep.",
+      "english": "according to"
+    },
+    {
+      "idx": 38,
+      "trad": "傳統",
+      "simp": "传统",
+      "pinyin": "chuántǒng",
+      "pos": "N",
+      "english": "tradition"
+    },
+    {
+      "idx": 39,
+      "trad": "主人",
+      "simp": "主人",
+      "pinyin": "zhǔrén",
+      "pos": "N",
+      "english": "host"
+    },
+    {
+      "idx": 40,
+      "trad": "讓",
+      "simp": "让",
+      "pinyin": "ràng",
+      "pos": "V",
+      "english": "to give away; to yield; to allow"
+    },
+    {
+      "idx": 41,
+      "trad": "客人",
+      "simp": "客人",
+      "pinyin": "kèrén",
+      "pos": "N",
+      "english": "guest"
+    },
+    {
+      "idx": 42,
+      "trad": "不但……也",
+      "simp": "不但……也",
+      "pinyin": "bùdàn… yě",
+      "pos": "Conj.",
+      "english": "not only… but also"
+    },
+    {
+      "idx": 43,
+      "trad": "飯館",
+      "simp": "饭馆",
+      "pinyin": "fànguǎn",
+      "pos": "N",
+      "english": "restaurant"
+    },
+    {
+      "idx": 44,
+      "trad": "人民",
+      "simp": "人民",
+      "pinyin": "rénmín",
+      "pos": "N",
+      "english": "the people"
+    },
+    {
+      "idx": 45,
+      "trad": "美味",
+      "simp": "美味",
+      "pinyin": "měiwèi",
+      "pos": "N",
+      "english": "delicious food; delicacy"
+    },
+    {
+      "idx": 46,
+      "trad": "伯伯",
+      "simp": "伯伯",
+      "pinyin": "bóbo",
+      "pos": "N",
+      "english": "uncle; one's father's elder brother; respectful term for an elder"
+    },
+    {
+      "idx": 47,
+      "trad": "廚師",
+      "simp": "厨师",
+      "pinyin": "chúshī",
+      "pos": "N",
+      "english": "cook; chef"
+    },
+    {
+      "idx": 48,
+      "trad": "空",
+      "simp": "空",
+      "pinyin": "kòng",
+      "pos": "N",
+      "english": "free time; spare time"
+    },
+    {
+      "idx": 49,
+      "trad": "聊",
+      "simp": "聊",
+      "pinyin": "liáo",
+      "pos": "V",
+      "english": "to chat"
+    },
+    {
+      "idx": 50,
+      "trad": "星期",
+      "simp": "星期",
+      "pinyin": "xīngqī",
+      "pos": "N",
+      "english": "week"
+    },
+    {
+      "idx": 51,
+      "trad": "禮物",
+      "simp": "礼物",
+      "pinyin": "lǐwù",
+      "pos": "N",
+      "english": "gift; present"
+    },
+    {
+      "idx": 52,
+      "trad": "四川",
+      "simp": "四川",
+      "pinyin": "Sìchuān",
+      "pos": "PN",
+      "english": "a province in China"
+    },
+    {
+      "idx": 53,
+      "trad": "湖南",
+      "simp": "湖南",
+      "pinyin": "Húnán",
+      "pos": "PN",
+      "english": "a province in China"
+    },
+    {
+      "idx": 54,
+      "trad": "山西",
+      "simp": "山西",
+      "pinyin": "Shānxī",
+      "pos": "PN",
+      "english": "a province in China"
+    },
+    {
+      "idx": 55,
+      "trad": "山東",
+      "simp": "山东",
+      "pinyin": "Shāndōng",
+      "pos": "PN",
+      "english": "a province in China"
+    },
+    {
+      "idx": 56,
+      "trad": "麥當勞",
+      "simp": "麦当劳",
+      "pinyin": "Màidāngláo",
+      "pos": "PN",
+      "english": "McDonald's"
+    },
+    {
+      "idx": 57,
+      "trad": "蔬菜",
+      "simp": "蔬菜",
+      "pinyin": "shūcài",
+      "pos": "N",
+      "english": "vegetable"
+    },
+    {
+      "idx": 58,
+      "trad": "白菜",
+      "simp": "白菜",
+      "pinyin": "báicài",
+      "pos": "N",
+      "english": "Chinese cabbage"
+    },
+    {
+      "idx": 59,
+      "trad": "土豆",
+      "simp": "土豆",
+      "pinyin": "tǔdòu",
+      "pos": "N",
+      "english": "potato"
+    },
+    {
+      "idx": 60,
+      "trad": "蘿卜",
+      "simp": "萝卜",
+      "pinyin": "luóbo",
+      "pos": "N",
+      "english": "turnip; radish"
+    },
+    {
+      "idx": 61,
+      "trad": "調料",
+      "simp": "调料",
+      "pinyin": "tiáoliào",
+      "pos": "N",
+      "english": "condiment; seasoning"
+    },
+    {
+      "idx": 62,
+      "trad": "糖",
+      "simp": "糖",
+      "pinyin": "táng",
+      "pos": "N",
+      "english": "sugar"
+    },
+    {
+      "idx": 63,
+      "trad": "鹽",
+      "simp": "盐",
+      "pinyin": "yán",
+      "pos": "N",
+      "english": "salt"
+    },
+    {
+      "idx": 64,
+      "trad": "醋",
+      "simp": "醋",
+      "pinyin": "cù",
+      "pos": "N",
+      "english": "vinegar"
+    },
+    {
+      "idx": 65,
+      "trad": "蔥",
+      "simp": "葱",
+      "pinyin": "cōng",
+      "pos": "N",
+      "english": "scallion; onion"
+    },
+    {
+      "idx": 66,
+      "trad": "蒜",
+      "simp": "蒜",
+      "pinyin": "suàn",
+      "pos": "N",
+      "english": "garlic"
+    },
+    {
+      "idx": 67,
+      "trad": "辣椒",
+      "simp": "辣椒",
+      "pinyin": "làjiāo",
+      "pos": "N",
+      "english": "hot pepper; chili"
+    },
+    {
+      "idx": 68,
+      "trad": "炒",
+      "simp": "炒",
+      "pinyin": "chǎo",
+      "pos": "V",
+      "english": "stir-fry; fry"
+    },
+    {
+      "idx": 69,
+      "trad": "蒸",
+      "simp": "蒸",
+      "pinyin": "zhēng",
+      "pos": "V",
+      "english": "steam"
+    },
+    {
+      "idx": 70,
+      "trad": "炸",
+      "simp": "炸",
+      "pinyin": "zhá",
+      "pos": "V",
+      "english": "fry in deep fat or oil; deep-fry"
+    },
+    {
+      "idx": 71,
+      "trad": "煮",
+      "simp": "煮",
+      "pinyin": "zhǔ",
+      "pos": "V",
+      "english": "boil"
+    }
+  ]
+}

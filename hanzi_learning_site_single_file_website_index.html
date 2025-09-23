@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>識字學習 | Hanzi Learn</title>
+  <!-- Tailwind Play CDN for quick styling (no build step) -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Hanzi Writer -->
+  <script src="https://unpkg.com/hanzi-writer@3.7.1/dist/hanzi-writer.min.js"></script>
+  <style>
+    /* Smooth table scrolling */
+    html, body { height: 100%; }
+    ::-webkit-scrollbar { height: 10px; width: 10px; }
+    ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 8px; }
+    .chip { @apply px-2 py-0.5 text-xs rounded-full bg-slate-100 border border-slate-200; }
+  </style>
+</head>
+<body class="min-h-screen bg-slate-50 text-slate-800">
+  <header class="sticky top-0 z-20 bg-white/80 backdrop-blur border-b border-slate-200">
+    <div class="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
+      <div class="text-xl font-bold">識字學習 Hanzi Learn</div>
+      <div class="ml-auto flex items-center gap-2">
+        <label class="text-sm">顯示：</label>
+        <button id="btnTrad" class="px-3 py-1 rounded-lg border border-slate-300 bg-white text-slate-700 text-sm">繁</button>
+        <button id="btnSimp" class="px-3 py-1 rounded-lg border border-slate-300 bg-white text-slate-700 text-sm">简</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="max-w-6xl mx-auto p-4 grid grid-cols-1 md:grid-cols-3 gap-4">
+    <!-- Controls -->
+    <section class="md:col-span-3 grid grid-cols-1 md:grid-cols-3 gap-3">
+      <div class="flex items-center gap-2">
+        <label class="text-sm w-20">課次</label>
+        <select id="lessonSelect" class="flex-1 px-3 py-2 rounded-lg border border-slate-300 bg-white">
+          <!-- populated by JS -->
+        </select>
+      </div>
+      <div class="md:col-span-2 flex items-center gap-2">
+        <label class="text-sm w-20">搜尋</label>
+        <input id="searchInput" placeholder="輸入字/詞、拼音或英文" class="flex-1 px-3 py-2 rounded-lg border border-slate-300 bg-white" />
+      </div>
+    </section>
+
+    <!-- List -->
+    <section class="md:col-span-2 bg-white border border-slate-200 rounded-2xl shadow-sm overflow-hidden">
+      <div class="overflow-x-auto">
+        <table class="min-w-full text-sm">
+          <thead class="bg-slate-100 text-slate-600">
+            <tr>
+              <th class="px-3 py-2 text-left w-16">#</th>
+              <th class="px-3 py-2 text-left">詞條</th>
+              <th class="px-3 py-2 text-left">拼音</th>
+              <th class="px-3 py-2 text-left">詞性</th>
+              <th class="px-3 py-2 text-left">英文</th>
+            </tr>
+          </thead>
+          <tbody id="tableBody" class="divide-y divide-slate-100">
+            <!-- rows -->
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Detail -->
+    <aside class="bg-white border border-slate-200 rounded-2xl shadow-sm p-4">
+      <div class="flex items-center justify-between mb-2">
+        <h2 class="text-lg font-semibold">詳情</h2>
+        <span id="detailLesson" class="chip">—</span>
+      </div>
+      <div id="detailMain" class="space-y-3">
+        <div id="detailWord" class="text-3xl font-bold"></div>
+        <div id="detailPinyin" class="text-slate-600"></div>
+        <div id="detailPos" class="text-slate-600"></div>
+        <div id="detailEn" class=""></div>
+        <div class="border-t pt-3">
+          <div class="text-sm text-slate-500 mb-2">筆順動畫（單字）：</div>
+          <div id="writer" class="mx-auto" style="width:240px;height:240px;"></div>
+          <div class="flex items-center gap-2 mt-2">
+            <button id="btnAnimate" class="px-3 py-1.5 rounded-lg border border-slate-300">播放</button>
+            <button id="btnQuiz" class="px-3 py-1.5 rounded-lg border border-slate-300">測驗</button>
+            <button id="btnReset" class="px-3 py-1.5 rounded-lg border border-slate-300">重置</button>
+          </div>
+          <div class="text-xs text-slate-500 mt-1">* 多字詞將播放「第一個字」；如需全部字都播放可再擴充。</div>
+        </div>
+      </div>
+    </aside>
+  </main>
+
+  <footer class="max-w-6xl mx-auto px-4 py-8 text-xs text-slate-500">
+    © 2025 Hanzi Learn. Data files: <code>/data/lessons/lesson01.json .. lesson10.json</code>
+  </footer>
+
+  <script>
+    // ==== CONFIG ====
+    const MAX_LESSON = 10; // how many lessons you have added
+    const LESSON_PATH = (n) => `./data/lessons/lesson${String(n).padStart(2,'0')}.json`;
+
+    // language state: 'trad' | 'simp'
+    let lang = 'trad';
+    let currentLesson = 1;
+    let allEntries = []; // currently loaded lesson entries
+    let writer = null;
+
+    function $(id){ return document.getElementById(id); }
+
+    // Build lesson dropdown
+    const lessonSel = $('lessonSelect');
+    for (let i=1;i<=MAX_LESSON;i++){
+      const opt = document.createElement('option');
+      opt.value = i;
+      opt.textContent = `第${i}課`;
+      lessonSel.appendChild(opt);
+    }
+
+    // Load a lesson JSON
+    async function loadLesson(n){
+      currentLesson = n;
+      $('detailLesson').textContent = `第${n}課`;
+      try {
+        const res = await fetch(LESSON_PATH(n));
+        if(!res.ok) throw new Error('找不到課次 JSON');
+        const json = await res.json();
+        allEntries = json.entries || [];
+        renderTable(allEntries);
+        clearDetail();
+      } catch (e){
+        console.error(e);
+        allEntries = [];
+        $('tableBody').innerHTML = `<tr><td colspan="5" class="p-4 text-red-600">未找到資料：${e.message}</td></tr>`;
+      }
+    }
+
+    // Render table rows
+    function renderTable(list){
+      const q = $('searchInput').value.trim().toLowerCase();
+      const rows = list.filter(x => {
+        const word = (lang === 'trad' ? x.trad : x.simp) || '';
+        const hay = [word, (x.pinyin||''), (x.pos||''), (x.english||'')].join(' ').toLowerCase();
+        return !q || hay.includes(q);
+      }).map(x => {
+        const word = (lang === 'trad' ? x.trad : x.simp) || '';
+        return `<tr class="hover:bg-slate-50 cursor-pointer" data-idx="${x.idx}">
+          <td class="px-3 py-2 text-slate-500">${x.idx}</td>
+          <td class="px-3 py-2 font-medium">${escapeHtml(word)}</td>
+          <td class="px-3 py-2 text-slate-600">${escapeHtml(x.pinyin||'')}</td>
+          <td class="px-3 py-2 text-slate-600">${escapeHtml(x.pos||'')}</td>
+          <td class="px-3 py-2">${escapeHtml(x.english||'')}</td>
+        </tr>`
+      }).join('');
+      $('tableBody').innerHTML = rows || `<tr><td colspan="5" class="p-4 text-slate-500">此課無資料或關鍵字無結果</td></tr>`;
+      // Attach click events
+      Array.from(document.querySelectorAll('#tableBody tr')).forEach(tr => {
+        tr.addEventListener('click', () => {
+          const idx = Number(tr.getAttribute('data-idx'));
+          const item = allEntries.find(e => e.idx === idx);
+          if (item) showDetail(item);
+        });
+      });
+    }
+
+    function clearDetail(){
+      $('detailWord').textContent = '';
+      $('detailPinyin').textContent = '';
+      $('detailPos').textContent = '';
+      $('detailEn').textContent = '';
+      resetWriter();
+    }
+
+    function showDetail(item){
+      const word = (lang === 'trad' ? item.trad : item.simp) || '';
+      $('detailWord').textContent = word;
+      $('detailPinyin').textContent = item.pinyin || '';
+      $('detailPos').textContent = item.pos || '';
+      $('detailEn').textContent = item.english || '';
+      // Animate the first character only (if exists)
+      const firstChar = Array.from(word)[0];
+      if (!firstChar) { resetWriter(); return; }
+      initWriter(firstChar);
+    }
+
+    function initWriter(ch){
+      resetWriter();
+      // custom character data loader from CDN
+      const charDataLoader = function(char){
+        const url = `https://unpkg.com/hanzi-writer-data@latest/${encodeURIComponent(char)}.json`;
+        return fetch(url).then(r => {
+          if(!r.ok) throw new Error('No char data on CDN');
+          return r.json();
+        });
+      };
+      writer = HanziWriter.create('writer', ch, {
+        width: 240,
+        height: 240,
+        showCharacter: true,
+        strokeColor: '#0ea5e9',
+        charDataLoader,
+      });
+    }
+
+    function resetWriter(){
+      const el = $('writer');
+      el.innerHTML = '';
+      writer = null;
+    }
+
+    // Events
+    $('btnTrad').addEventListener('click', () => { lang = 'trad'; renderTable(allEntries); const w=$('btnTrad'); w.classList.add('bg-slate-900','text-white'); $('btnSimp').classList.remove('bg-slate-900','text-white'); });
+    $('btnSimp').addEventListener('click', () => { lang = 'simp'; renderTable(allEntries); const w=$('btnSimp'); w.classList.add('bg-slate-900','text-white'); $('btnTrad').classList.remove('bg-slate-900','text-white'); });
+    lessonSel.addEventListener('change', e => loadLesson(Number(e.target.value)));
+    $('searchInput').addEventListener('input', () => renderTable(allEntries));
+
+    $('btnAnimate').addEventListener('click', () => { if(writer) writer.animateCharacter(); });
+    $('btnQuiz').addEventListener('click', () => { if(writer) writer.quiz({showHintAfterMisses: 1}); });
+    $('btnReset').addEventListener('click', () => { if(writer) { const ch = writer.character; initWriter(ch); }});
+
+    function escapeHtml(str){
+      return (str||'').toString().replace(/[&<>"]/g, s=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;' }[s]));
+    }
+
+    // Boot
+    (function init(){
+      $('btnTrad').classList.add('bg-slate-900','text-white');
+      lessonSel.value = 1;
+      loadLesson(1);
+    })();
+  </script>
+</body>
+</html>

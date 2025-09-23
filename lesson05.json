@@ -1,0 +1,361 @@
+{
+  "meta": {
+    "lesson": 5,
+    "title": "第五課",
+    "grade": null
+  },
+  "entries": [
+    {
+      "idx": 1,
+      "trad": "蛋",
+      "simp": "蛋",
+      "pinyin": "dàn",
+      "pos": "N",
+      "english": "egg"
+    },
+    {
+      "idx": 2,
+      "trad": "著",
+      "simp": "着",
+      "pinyin": "zhe",
+      "pos": "suffix",
+      "english": "verb suffix indicating a durative state"
+    },
+    {
+      "idx": 3,
+      "trad": "盤古",
+      "simp": "盘古",
+      "pinyin": "Pángǔ",
+      "pos": "PN",
+      "english": "the name of the god who, according to legend, created the heaven and the earth"
+    },
+    {
+      "idx": 4,
+      "trad": "醒",
+      "simp": "醒",
+      "pinyin": "xǐng",
+      "pos": "V",
+      "english": "to wake up"
+    },
+    {
+      "idx": 5,
+      "trad": "睜開",
+      "simp": "睁开",
+      "pinyin": "zhēngkāi",
+      "pos": "VP",
+      "english": "to open (one’s eyes)"
+    },
+    {
+      "idx": 6,
+      "trad": "眼睛",
+      "simp": "眼睛",
+      "pinyin": "yǎnjing",
+      "pos": "N",
+      "english": "eye"
+    },
+    {
+      "idx": 7,
+      "trad": "世界",
+      "simp": "世界",
+      "pinyin": "shìjiè",
+      "pos": "N",
+      "english": "the world"
+    },
+    {
+      "idx": 8,
+      "trad": "黑",
+      "simp": "黑",
+      "pinyin": "hēi",
+      "pos": "SV",
+      "english": "black; dark"
+    },
+    {
+      "idx": 9,
+      "trad": "踢",
+      "simp": "踢",
+      "pinyin": "tī",
+      "pos": "V",
+      "english": "to kick"
+    },
+    {
+      "idx": 10,
+      "trad": "出來",
+      "simp": "出来",
+      "pinyin": "chūlái",
+      "pos": "VP",
+      "english": "to come out; to emerge"
+    },
+    {
+      "idx": 11,
+      "trad": "輕",
+      "simp": "轻",
+      "pinyin": "qīng",
+      "pos": "SV",
+      "english": "light"
+    },
+    {
+      "idx": 12,
+      "trad": "重",
+      "simp": "重",
+      "pinyin": "zhòng",
+      "pos": "SV",
+      "english": "heavy"
+    },
+    {
+      "idx": 13,
+      "trad": "乾淨",
+      "simp": "干净",
+      "pinyin": "gānjìng",
+      "pos": "SV",
+      "english": "clean"
+    },
+    {
+      "idx": 14,
+      "trad": "慢",
+      "simp": "慢",
+      "pinyin": "màn",
+      "pos": "SV",
+      "english": "slow"
+    },
+    {
+      "idx": 15,
+      "trad": "地",
+      "simp": "地",
+      "pinyin": "de",
+      "pos": "Pt.",
+      "english": "adverbial marker"
+    },
+    {
+      "idx": 16,
+      "trad": "上升",
+      "simp": "上升",
+      "pinyin": "shàngshēng",
+      "pos": "VP",
+      "english": "to rise"
+    },
+    {
+      "idx": 17,
+      "trad": "變成",
+      "simp": "变成",
+      "pinyin": "biànchéng",
+      "pos": "VP",
+      "english": "to become; to change into"
+    },
+    {
+      "idx": 18,
+      "trad": "下沉",
+      "simp": "下沉",
+      "pinyin": "xiàchén",
+      "pos": "VP",
+      "english": "to sink"
+    },
+    {
+      "idx": 19,
+      "trad": "分開",
+      "simp": "分开",
+      "pinyin": "fēnkāi",
+      "pos": "VP",
+      "english": "to separate; to part"
+    },
+    {
+      "idx": 20,
+      "trad": "站著",
+      "simp": "站着",
+      "pinyin": "zhànzhe",
+      "pos": "VP",
+      "english": "to be standing"
+    },
+    {
+      "idx": 21,
+      "trad": "厚",
+      "simp": "厚",
+      "pinyin": "hòu",
+      "pos": "SV",
+      "english": "thick"
+    },
+    {
+      "idx": 22,
+      "trad": "身體",
+      "simp": "身体",
+      "pinyin": "shēntǐ",
+      "pos": "N",
+      "english": "body"
+    },
+    {
+      "idx": 23,
+      "trad": "過",
+      "simp": "过",
+      "pinyin": "guò",
+      "pos": "V",
+      "english": "to pass; to spend (time)"
+    },
+    {
+      "idx": 24,
+      "trad": "又",
+      "simp": "又",
+      "pinyin": "yòu",
+      "pos": "Adv.",
+      "english": "again"
+    },
+    {
+      "idx": 25,
+      "trad": "氣",
+      "simp": "气",
+      "pinyin": "qì",
+      "pos": "N",
+      "english": "breath; air; gas"
+    },
+    {
+      "idx": 26,
+      "trad": "風",
+      "simp": "风",
+      "pinyin": "fēng",
+      "pos": "N",
+      "english": "wind"
+    },
+    {
+      "idx": 27,
+      "trad": "雲",
+      "simp": "云",
+      "pinyin": "yún",
+      "pos": "N",
+      "english": "cloud"
+    },
+    {
+      "idx": 28,
+      "trad": "聲音",
+      "simp": "声音",
+      "pinyin": "shēngyīn",
+      "pos": "N",
+      "english": "voice; sound"
+    },
+    {
+      "idx": 29,
+      "trad": "雷",
+      "simp": "雷",
+      "pinyin": "léi",
+      "pos": "N",
+      "english": "thunder"
+    },
+    {
+      "idx": 30,
+      "trad": "月亮",
+      "simp": "月亮",
+      "pinyin": "yuèliang",
+      "pos": "N",
+      "english": "moon"
+    },
+    {
+      "idx": 31,
+      "trad": "手",
+      "simp": "手",
+      "pinyin": "shǒu",
+      "pos": "N",
+      "english": "hand"
+    },
+    {
+      "idx": 32,
+      "trad": "腳",
+      "simp": "脚",
+      "pinyin": "jiǎo",
+      "pos": "N",
+      "english": "foot"
+    },
+    {
+      "idx": 33,
+      "trad": "頭髮",
+      "simp": "头发",
+      "pinyin": "tóufa",
+      "pos": "N",
+      "english": "hair"
+    },
+    {
+      "idx": 34,
+      "trad": "樹木",
+      "simp": "树木",
+      "pinyin": "shùmù",
+      "pos": "N",
+      "english": "tree"
+    },
+    {
+      "idx": 35,
+      "trad": "血",
+      "simp": "血",
+      "pinyin": "xiě, xuè",
+      "pos": "N",
+      "english": "blood"
+    },
+    {
+      "idx": 36,
+      "trad": "汗",
+      "simp": "汗",
+      "pinyin": "hàn",
+      "pos": "N",
+      "english": "sweat; perspiration"
+    },
+    {
+      "idx": 37,
+      "trad": "新",
+      "simp": "新",
+      "pinyin": "xīn",
+      "pos": "SV",
+      "english": "new"
+    },
+    {
+      "idx": 38,
+      "trad": "久",
+      "simp": "久",
+      "pinyin": "jiǔ",
+      "pos": "SV",
+      "english": "long (time)"
+    },
+    {
+      "idx": 39,
+      "trad": "最近",
+      "simp": "最近",
+      "pinyin": "zuìjìn",
+      "pos": "TW",
+      "english": "recent"
+    },
+    {
+      "idx": 40,
+      "trad": "聰明",
+      "simp": "聪明",
+      "pinyin": "cōngming",
+      "pos": "SV",
+      "english": "intelligent; bright"
+    },
+    {
+      "idx": 41,
+      "trad": "怎麼樣",
+      "simp": "怎么样",
+      "pinyin": "zěnmeyàng",
+      "pos": "IE",
+      "english": "How are things? How about ...?"
+    },
+    {
+      "idx": 42,
+      "trad": "不錯",
+      "simp": "不错",
+      "pinyin": "búcuò",
+      "pos": "SV",
+      "english": "pretty good"
+    },
+    {
+      "idx": 43,
+      "trad": "別的",
+      "simp": "别的",
+      "pinyin": "biéde",
+      "pos": "Pron.",
+      "english": "other; alternative"
+    },
+    {
+      "idx": 44,
+      "trad": "行",
+      "simp": "行",
+      "pinyin": "xíng",
+      "pos": "SV",
+      "english": "okay"
+    }
+  ]
+}

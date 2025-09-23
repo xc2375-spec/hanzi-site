@@ -1,0 +1,457 @@
+{
+  "meta": {
+    "lesson": 6,
+    "title": "第六課",
+    "grade": null
+  },
+  "entries": [
+    {
+      "idx": 1,
+      "trad": "成語",
+      "simp": "成语",
+      "pinyin": "chéngyǔ",
+      "pos": "N",
+      "english": "idiom; set phrase"
+    },
+    {
+      "idx": 2,
+      "trad": "故事",
+      "simp": "故事",
+      "pinyin": "gùshi",
+      "pos": "N",
+      "english": "story"
+    },
+    {
+      "idx": 3,
+      "trad": "對",
+      "simp": "对",
+      "pinyin": "duì",
+      "pos": "CV",
+      "english": "toward; to"
+    },
+    {
+      "idx": 4,
+      "trad": "彈琴",
+      "simp": "弹琴",
+      "pinyin": "tánqín",
+      "pos": "VO",
+      "english": "play the zither"
+    },
+    {
+      "idx": 5,
+      "trad": "音樂",
+      "simp": "音乐",
+      "pinyin": "yīnyuè",
+      "pos": "N",
+      "english": "music"
+    },
+    {
+      "idx": 6,
+      "trad": "音樂家",
+      "simp": "音乐家",
+      "pinyin": "yīnyuèjiā",
+      "pos": "N",
+      "english": "musician"
+    },
+    {
+      "idx": 7,
+      "trad": "得",
+      "simp": "得",
+      "pinyin": "de",
+      "pos": "Pt.",
+      "english": "verb complement marker"
+    },
+    {
+      "idx": 8,
+      "trad": "帶",
+      "simp": "带",
+      "pinyin": "dài",
+      "pos": "V",
+      "english": "to bring"
+    },
+    {
+      "idx": 9,
+      "trad": "頭",
+      "simp": "头",
+      "pinyin": "tóu",
+      "pos": "N/M",
+      "english": "head; measure word for animals"
+    },
+    {
+      "idx": 10,
+      "trad": "它",
+      "simp": "它",
+      "pinyin": "tā",
+      "pos": "Pron.",
+      "english": "it"
+    },
+    {
+      "idx": 11,
+      "trad": "曲子",
+      "simp": "曲子",
+      "pinyin": "qǔzi",
+      "pos": "N",
+      "english": "tune; melody"
+    },
+    {
+      "idx": 12,
+      "trad": "好像",
+      "simp": "好像",
+      "pinyin": "hǎoxiàng",
+      "pos": "Adv.",
+      "english": "as if; seemingly"
+    },
+    {
+      "idx": 13,
+      "trad": "越……越……",
+      "simp": "越……越……",
+      "pinyin": "yuè…yuè…",
+      "pos": "Conj.",
+      "english": "the more ... the more"
+    },
+    {
+      "idx": 14,
+      "trad": "一點(兒)",
+      "simp": "一点(儿)",
+      "pinyin": "yìdiǎn(r)",
+      "pos": "N",
+      "english": "a little"
+    },
+    {
+      "idx": 15,
+      "trad": "興趣",
+      "simp": "兴趣",
+      "pinyin": "xìngqù",
+      "pos": "N",
+      "english": "interest"
+    },
+    {
+      "idx": 16,
+      "trad": "懂",
+      "simp": "懂",
+      "pinyin": "dǒng",
+      "pos": "V",
+      "english": "to understand; to comprehend"
+    },
+    {
+      "idx": 17,
+      "trad": "別人",
+      "simp": "别人",
+      "pinyin": "biéren",
+      "pos": "N",
+      "english": "other people; others"
+    },
+    {
+      "idx": 18,
+      "trad": "笨",
+      "simp": "笨",
+      "pinyin": "bèn",
+      "pos": "SV",
+      "english": "stupid"
+    },
+    {
+      "idx": 19,
+      "trad": "畫",
+      "simp": "画",
+      "pinyin": "huà",
+      "pos": "V/N",
+      "english": "to draw; to paint; painting; picture"
+    },
+    {
+      "idx": 20,
+      "trad": "蛇",
+      "simp": "蛇",
+      "pinyin": "shé",
+      "pos": "N",
+      "english": "snake; serpent"
+    },
+    {
+      "idx": 21,
+      "trad": "添",
+      "simp": "添",
+      "pinyin": "tiān",
+      "pos": "V",
+      "english": "to add"
+    },
+    {
+      "idx": 22,
+      "trad": "足",
+      "simp": "足",
+      "pinyin": "zú",
+      "pos": "N",
+      "english": "foot"
+    },
+    {
+      "idx": 23,
+      "trad": "喝",
+      "simp": "喝",
+      "pinyin": "hē",
+      "pos": "V",
+      "english": "to drink"
+    },
+    {
+      "idx": 24,
+      "trad": "酒",
+      "simp": "酒",
+      "pinyin": "jiǔ",
+      "pos": "N",
+      "english": "wine; alcohol; liquor"
+    },
+    {
+      "idx": 25,
+      "trad": "得到",
+      "simp": "得到",
+      "pinyin": "dédào",
+      "pos": "V",
+      "english": "to get; to obtain; to gain"
+    },
+    {
+      "idx": 26,
+      "trad": "瓶",
+      "simp": "瓶",
+      "pinyin": "píng",
+      "pos": "N/M",
+      "english": "bottle"
+    },
+    {
+      "idx": 27,
+      "trad": "不得了",
+      "simp": "不得了",
+      "pinyin": "bùdéliǎo",
+      "pos": "IE",
+      "english": "extremely; terribly; awfully"
+    },
+    {
+      "idx": 28,
+      "trad": "當然",
+      "simp": "当然",
+      "pinyin": "dāngrán",
+      "pos": "Adv.",
+      "english": "of course"
+    },
+    {
+      "idx": 29,
+      "trad": "夠",
+      "simp": "够",
+      "pinyin": "gòu",
+      "pos": "SV/Adv.",
+      "english": "enough"
+    },
+    {
+      "idx": 30,
+      "trad": "快",
+      "simp": "快",
+      "pinyin": "kuài",
+      "pos": "SV",
+      "english": "fast; quick"
+    },
+    {
+      "idx": 31,
+      "trad": "極了",
+      "simp": "极了",
+      "pinyin": "jíle",
+      "pos": "IE",
+      "english": "extremely"
+    },
+    {
+      "idx": 32,
+      "trad": "本來",
+      "simp": "本来",
+      "pinyin": "běnlái",
+      "pos": "Adv.",
+      "english": "originally; essentially"
+    },
+    {
+      "idx": 33,
+      "trad": "連……都……",
+      "simp": "连……都……",
+      "pinyin": "lián…dōu…",
+      "pos": "IE",
+      "english": "even"
+    },
+    {
+      "idx": 34,
+      "trad": "雖然",
+      "simp": "虽然",
+      "pinyin": "suīrán",
+      "pos": "Conj.",
+      "english": "although; though"
+    },
+    {
+      "idx": 35,
+      "trad": "說明",
+      "simp": "说明",
+      "pinyin": "shuōmíng",
+      "pos": "V",
+      "english": "to illustrate; to show; to indicate"
+    },
+    {
+      "idx": 36,
+      "trad": "必要",
+      "simp": "必要",
+      "pinyin": "bìyào",
+      "pos": "SV/N",
+      "english": "necessary; necessity"
+    },
+    {
+      "idx": 37,
+      "trad": "好處",
+      "simp": "好处",
+      "pinyin": "hǎochù",
+      "pos": "N",
+      "english": "good; benefit; advantage"
+    },
+    {
+      "idx": 38,
+      "trad": "年輕",
+      "simp": "年轻",
+      "pinyin": "niánqing",
+      "pos": "SV",
+      "english": "young"
+    },
+    {
+      "idx": 39,
+      "trad": "老大爺",
+      "simp": "老大爷",
+      "pinyin": "lǎodàye",
+      "pos": "N",
+      "english": "a respectful address for an elderly man"
+    },
+    {
+      "idx": 40,
+      "trad": "急",
+      "simp": "急",
+      "pinyin": "jí",
+      "pos": "SV",
+      "english": "urgent"
+    },
+    {
+      "idx": 41,
+      "trad": "楚國",
+      "simp": "楚国",
+      "pinyin": "Chǔguó",
+      "pos": "PN",
+      "english": "one of the Warring States (770–256 B.C.)"
+    },
+    {
+      "idx": 42,
+      "trad": "诶",
+      "simp": "诶",
+      "pinyin": "éi",
+      "pos": "Interj.",
+      "english": "Hey!"
+    },
+    {
+      "idx": 43,
+      "trad": "停",
+      "simp": "停",
+      "pinyin": "tíng",
+      "pos": "V",
+      "english": "to stop"
+    },
+    {
+      "idx": 44,
+      "trad": "馬",
+      "simp": "马",
+      "pinyin": "mǎ",
+      "pos": "N",
+      "english": "horse"
+    },
+    {
+      "idx": 45,
+      "trad": "車",
+      "simp": "车",
+      "pinyin": "chē",
+      "pos": "N",
+      "english": "vehicle; car"
+    },
+    {
+      "idx": 46,
+      "trad": "馬車",
+      "simp": "马车",
+      "pinyin": "mǎ chē",
+      "pos": "N",
+      "english": "chariot; (horse-drawn) carriage"
+    },
+    {
+      "idx": 47,
+      "trad": "趕",
+      "simp": "赶",
+      "pinyin": "gǎn",
+      "pos": "V",
+      "english": "to drive (a horse or a chariot)"
+    },
+    {
+      "idx": 48,
+      "trad": "路",
+      "simp": "路",
+      "pinyin": "lù",
+      "pos": "N",
+      "english": "road"
+    },
+    {
+      "idx": 49,
+      "trad": "不要緊",
+      "simp": "不要紧",
+      "pinyin": "búyàojǐn",
+      "pos": "IE",
+      "english": "It doesn’t matter; never mind"
+    },
+    {
+      "idx": 50,
+      "trad": "跑",
+      "simp": "跑",
+      "pinyin": "pǎo",
+      "pos": "V",
+      "english": "to run"
+    },
+    {
+      "idx": 51,
+      "trad": "哎呀",
+      "simp": "哎呀",
+      "pinyin": "āiyā",
+      "pos": "Interj.",
+      "english": "expressing complaint or impatience"
+    },
+    {
+      "idx": 52,
+      "trad": "簡直",
+      "simp": "简直",
+      "pinyin": "jiǎnzhí",
+      "pos": "Adv.",
+      "english": "simply"
+    },
+    {
+      "idx": 53,
+      "trad": "糊塗",
+      "simp": "糊涂",
+      "pinyin": "hútu",
+      "pos": "SV",
+      "english": "muddled; confused; bewildered"
+    },
+    {
+      "idx": 54,
+      "trad": "道理",
+      "simp": "道理",
+      "pinyin": "dàolǐ",
+      "pos": "N",
+      "english": "reason"
+    },
+    {
+      "idx": 55,
+      "trad": "離",
+      "simp": "离",
+      "pinyin": "lí",
+      "pos": "CV",
+      "english": "away from"
+    },
+    {
+      "idx": 56,
+      "trad": "遠",
+      "simp": "远",
+      "pinyin": "yuǎn",
+      "pos": "SV",
+      "english": "far; distant"
+    }
+  ]
+}

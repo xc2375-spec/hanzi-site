@@ -1,0 +1,409 @@
+{
+  "meta": {
+    "lesson": 4,
+    "title": "第四課",
+    "grade": null
+  },
+  "entries": [
+    {
+      "idx": 1,
+      "trad": "古",
+      "simp": "古",
+      "pinyin": "gǔ",
+      "pos": "SV",
+      "english": "ancient"
+    },
+    {
+      "idx": 2,
+      "trad": "時候",
+      "simp": "时候",
+      "pinyin": "shíhou",
+      "pos": "TW/N",
+      "english": "time; when ..."
+    },
+    {
+      "idx": 3,
+      "trad": "天",
+      "simp": "天",
+      "pinyin": "tiān",
+      "pos": "N",
+      "english": "sky; heaven"
+    },
+    {
+      "idx": 4,
+      "trad": "太陽",
+      "simp": "太阳",
+      "pinyin": "tàiyáng",
+      "pos": "N",
+      "english": "sun"
+    },
+    {
+      "idx": 5,
+      "trad": "長得",
+      "simp": "长得",
+      "pinyin": "zhǎngde",
+      "pos": "V",
+      "english": "to grow up to look like ..."
+    },
+    {
+      "idx": 6,
+      "trad": "完全",
+      "simp": "完全",
+      "pinyin": "wánquán",
+      "pos": "Adv.",
+      "english": "completely; entirely; absolutely"
+    },
+    {
+      "idx": 7,
+      "trad": "每",
+      "simp": "每",
+      "pinyin": "měi",
+      "pos": "Adj.",
+      "english": "every"
+    },
+    {
+      "idx": 8,
+      "trad": "到",
+      "simp": "到",
+      "pinyin": "dào",
+      "pos": "V/CV",
+      "english": "to arrive; to reach; to"
+    },
+    {
+      "idx": 9,
+      "trad": "去",
+      "simp": "去",
+      "pinyin": "qù",
+      "pos": "V",
+      "english": "to go"
+    },
+    {
+      "idx": 10,
+      "trad": "東方",
+      "simp": "东方",
+      "pinyin": "dōngfāng",
+      "pos": "N",
+      "english": "the east"
+    },
+    {
+      "idx": 11,
+      "trad": "最後",
+      "simp": "最后",
+      "pinyin": "zuìhòu",
+      "pos": "Adv./SV",
+      "english": "finally; the last"
+    },
+    {
+      "idx": 12,
+      "trad": "飛",
+      "simp": "飞",
+      "pinyin": "fēi",
+      "pos": "V",
+      "english": "to fly"
+    },
+    {
+      "idx": 13,
+      "trad": "西方",
+      "simp": "西方",
+      "pinyin": "xīfāng",
+      "pos": "N",
+      "english": "the west"
+    },
+    {
+      "idx": 14,
+      "trad": "回",
+      "simp": "回",
+      "pinyin": "huí",
+      "pos": "V",
+      "english": "to return; to go back"
+    },
+    {
+      "idx": 15,
+      "trad": "就是",
+      "simp": "就是",
+      "pinyin": "jiùshì",
+      "pos": "V",
+      "english": "namely; to be no other than"
+    },
+    {
+      "idx": 16,
+      "trad": "知道",
+      "simp": "知道",
+      "pinyin": "zhīdào",
+      "pos": "V",
+      "english": "to know; to realize; to be aware of"
+    },
+    {
+      "idx": 17,
+      "trad": "覺得",
+      "simp": "觉得",
+      "pinyin": "juéde",
+      "pos": "V",
+      "english": "to sense; to feel"
+    },
+    {
+      "idx": 18,
+      "trad": "有意思",
+      "simp": "有意思",
+      "pinyin": "yǒuyìsi",
+      "pos": "SV",
+      "english": "interesting"
+    },
+    {
+      "idx": 19,
+      "trad": "第",
+      "simp": "第",
+      "pinyin": "dì",
+      "pos": "Prefix",
+      "english": "ordinal number prefix"
+    },
+    {
+      "idx": 20,
+      "trad": "一塊兒",
+      "simp": "一块儿",
+      "pinyin": "yíkuàir",
+      "pos": "Adv.",
+      "english": "together"
+    },
+    {
+      "idx": 21,
+      "trad": "如果",
+      "simp": "如果",
+      "pinyin": "rúguǒ",
+      "pos": "Conj.",
+      "english": "if; in case"
+    },
+    {
+      "idx": 22,
+      "trad": "看見",
+      "simp": "看见",
+      "pinyin": "kànjiàn",
+      "pos": "VP",
+      "english": "to see"
+    },
+    {
+      "idx": 23,
+      "trad": "那麼",
+      "simp": "那么",
+      "pinyin": "nàme",
+      "pos": "Conj.",
+      "english": "then; therefore"
+    },
+    {
+      "idx": 24,
+      "trad": "會",
+      "simp": "会",
+      "pinyin": "huì",
+      "pos": "MV/V",
+      "english": "will; would; to know how to"
+    },
+    {
+      "idx": 25,
+      "trad": "非常",
+      "simp": "非常",
+      "pinyin": "fēicháng",
+      "pos": "Adv.",
+      "english": "extremely; unusually; extraordinarily"
+    },
+    {
+      "idx": 26,
+      "trad": "地上",
+      "simp": "地上",
+      "pinyin": "dìshang",
+      "pos": "N",
+      "english": "(on) the ground; on the earth"
+    },
+    {
+      "idx": 27,
+      "trad": "馬上",
+      "simp": "马上",
+      "pinyin": "mǎshàng",
+      "pos": "Adv.",
+      "english": "immediately"
+    },
+    {
+      "idx": 28,
+      "trad": "變得",
+      "simp": "变得",
+      "pinyin": "biànde",
+      "pos": "VP",
+      "english": "to become"
+    },
+    {
+      "idx": 29,
+      "trad": "死",
+      "simp": "死",
+      "pinyin": "sǐ",
+      "pos": "V",
+      "english": "to die"
+    },
+    {
+      "idx": 30,
+      "trad": "神",
+      "simp": "神",
+      "pinyin": "shén",
+      "pos": "N",
+      "english": "god; spiritual being"
+    },
+    {
+      "idx": 31,
+      "trad": "事情",
+      "simp": "事情",
+      "pinyin": "shìqing",
+      "pos": "N",
+      "english": "matter; event; thing; business"
+    },
+    {
+      "idx": 32,
+      "trad": "生氣",
+      "simp": "生气",
+      "pinyin": "shēngqì",
+      "pos": "V/SV",
+      "english": "to get angry; to take offense; angry"
+    },
+    {
+      "idx": 33,
+      "trad": "叫",
+      "simp": "叫",
+      "pinyin": "jiào",
+      "pos": "V",
+      "english": "to ask; to order; to call; to shout"
+    },
+    {
+      "idx": 34,
+      "trad": "力氣",
+      "simp": "力气",
+      "pinyin": "lìqi",
+      "pos": "N",
+      "english": "physical strength; effort"
+    },
+    {
+      "idx": 35,
+      "trad": "射",
+      "simp": "射",
+      "pinyin": "shè",
+      "pos": "V",
+      "english": "to shoot"
+    },
+    {
+      "idx": 36,
+      "trad": "箭",
+      "simp": "箭",
+      "pinyin": "jiàn",
+      "pos": "N",
+      "english": "arrow"
+    },
+    {
+      "idx": 37,
+      "trad": "羿",
+      "simp": "羿",
+      "pinyin": "Yì",
+      "pos": "PN",
+      "english": "the name of the god who, according to legend, shot down nine suns"
+    },
+    {
+      "idx": 38,
+      "trad": "難過",
+      "simp": "难过",
+      "pinyin": "nánguò",
+      "pos": "SV",
+      "english": "sad; aggrieved"
+    },
+    {
+      "idx": 39,
+      "trad": "跑",
+      "simp": "跑",
+      "pinyin": "pǎo",
+      "pos": "V",
+      "english": "run"
+    },
+    {
+      "idx": 40,
+      "trad": "過日子",
+      "simp": "过日子",
+      "pinyin": "guò rìzi",
+      "pos": "VO",
+      "english": "to live (one's life)"
+    },
+    {
+      "idx": 41,
+      "trad": "昨天",
+      "simp": "昨天",
+      "pinyin": "zuótiān",
+      "pos": "TW",
+      "english": "yesterday"
+    },
+    {
+      "idx": 42,
+      "trad": "晚上",
+      "simp": "晚上",
+      "pinyin": "wǎnshang",
+      "pos": "N",
+      "english": "evening"
+    },
+    {
+      "idx": 43,
+      "trad": "天氣",
+      "simp": "天气",
+      "pinyin": "tiānqì",
+      "pos": "N",
+      "english": "weather"
+    },
+    {
+      "idx": 44,
+      "trad": "吃飯",
+      "simp": "吃饭",
+      "pinyin": "chīfàn",
+      "pos": "VO",
+      "english": "to eat (a meal); to have a meal"
+    },
+    {
+      "idx": 45,
+      "trad": "怕",
+      "simp": "怕",
+      "pinyin": "pà",
+      "pos": "V",
+      "english": "to be afraid; fear"
+    },
+    {
+      "idx": 46,
+      "trad": "總算",
+      "simp": "总算",
+      "pinyin": "zǒngsuàn",
+      "pos": "Adv.",
+      "english": "finally; at last"
+    },
+    {
+      "idx": 47,
+      "trad": "舒服",
+      "simp": "舒服",
+      "pinyin": "shūfu",
+      "pos": "SV",
+      "english": "comfortable"
+    },
+    {
+      "idx": 48,
+      "trad": "睡",
+      "simp": "睡",
+      "pinyin": "shuì",
+      "pos": "V",
+      "english": "to sleep"
+    },
+    {
+      "idx": 49,
+      "trad": "季節",
+      "simp": "季节",
+      "pinyin": "jìjié",
+      "pos": "N",
+      "english": "season (of the year)"
+    },
+    {
+      "idx": 50,
+      "trad": "風",
+      "simp": "风",
+      "pinyin": "fēng",
+      "pos": "N",
+      "english": "wind"
+    }
+  ]
+}

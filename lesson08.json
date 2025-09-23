@@ -1,0 +1,433 @@
+{
+  "meta": {
+    "lesson": 8,
+    "title": "第八課",
+    "grade": null
+  },
+  "entries": [
+    {
+      "idx": 1,
+      "trad": "學習",
+      "simp": "学习",
+      "pinyin": "xuéxí",
+      "pos": "V",
+      "english": "to study; to learn"
+    },
+    {
+      "idx": 2,
+      "trad": "歷史",
+      "simp": "历史",
+      "pinyin": "lìshǐ",
+      "pos": "N",
+      "english": "history"
+    },
+    {
+      "idx": 3,
+      "trad": "詩",
+      "simp": "诗",
+      "pinyin": "shī",
+      "pos": "N",
+      "english": "poetry; verse"
+    },
+    {
+      "idx": 4,
+      "trad": "詩人",
+      "simp": "诗人",
+      "pinyin": "shīrén",
+      "pos": "N",
+      "english": "poet"
+    },
+    {
+      "idx": 5,
+      "trad": "唐朝",
+      "simp": "唐朝",
+      "pinyin": "Tángcháo",
+      "pos": "PN",
+      "english": "Tang Dynasty"
+    },
+    {
+      "idx": 6,
+      "trad": "一直",
+      "simp": "一直",
+      "pinyin": "yìzhí",
+      "pos": "Adv.",
+      "english": "always; all along"
+    },
+    {
+      "idx": 7,
+      "trad": "讀",
+      "simp": "读",
+      "pinyin": "dú",
+      "pos": "V",
+      "english": "to read (aloud)"
+    },
+    {
+      "idx": 8,
+      "trad": "翻譯",
+      "simp": "翻译",
+      "pinyin": "fānyì",
+      "pos": "V/N",
+      "english": "to translate; translation"
+    },
+    {
+      "idx": 9,
+      "trad": "外語",
+      "simp": "外语",
+      "pinyin": "wàiyǔ",
+      "pos": "N",
+      "english": "foreign language"
+    },
+    {
+      "idx": 10,
+      "trad": "外國人",
+      "simp": "外国人",
+      "pinyin": "wàiguórén",
+      "pos": "N",
+      "english": "foreigner"
+    },
+    {
+      "idx": 11,
+      "trad": "努力",
+      "simp": "努力",
+      "pinyin": "nǔlì",
+      "pos": "V/SV/N",
+      "english": "to make great efforts; to try hard; effort"
+    },
+    {
+      "idx": 12,
+      "trad": "記性",
+      "simp": "记性",
+      "pinyin": "jìxing",
+      "pos": "N",
+      "english": "memory"
+    },
+    {
+      "idx": 13,
+      "trad": "下工夫",
+      "simp": "下工夫",
+      "pinyin": "xiàgōngfu",
+      "pos": "VO",
+      "english": "to put in time and energy"
+    },
+    {
+      "idx": 14,
+      "trad": "容易",
+      "simp": "容易",
+      "pinyin": "róngyì",
+      "pos": "SV",
+      "english": "easy"
+    },
+    {
+      "idx": 15,
+      "trad": "驕傲",
+      "simp": "骄傲",
+      "pinyin": "jiāo'ào",
+      "pos": "SV",
+      "english": "arrogant; proud"
+    },
+    {
+      "idx": 16,
+      "trad": "刻苦",
+      "simp": "刻苦",
+      "pinyin": "kèkǔ",
+      "pos": "SV",
+      "english": "hardworking; painstaking"
+    },
+    {
+      "idx": 17,
+      "trad": "根",
+      "simp": "根",
+      "pinyin": "gēn",
+      "pos": "M",
+      "english": "measure word"
+    },
+    {
+      "idx": 18,
+      "trad": "鐵",
+      "simp": "铁",
+      "pinyin": "tiě",
+      "pos": "N",
+      "english": "iron"
+    },
+    {
+      "idx": 19,
+      "trad": "棒",
+      "simp": "棒",
+      "pinyin": "bàng",
+      "pos": "N",
+      "english": "stick; club"
+    },
+    {
+      "idx": 20,
+      "trad": "石頭",
+      "simp": "石头",
+      "pinyin": "shítou",
+      "pos": "N",
+      "english": "stone; rock"
+    },
+    {
+      "idx": 21,
+      "trad": "磨",
+      "simp": "磨",
+      "pinyin": "mó",
+      "pos": "V",
+      "english": "to grind"
+    },
+    {
+      "idx": 22,
+      "trad": "奇怪",
+      "simp": "奇怪",
+      "pinyin": "qíguài",
+      "pos": "SV",
+      "english": "strange; surprising; odd"
+    },
+    {
+      "idx": 23,
+      "trad": "幹",
+      "simp": "干",
+      "pinyin": "gàn",
+      "pos": "V",
+      "english": "to do"
+    },
+    {
+      "idx": 24,
+      "trad": "針",
+      "simp": "针",
+      "pinyin": "zhēn",
+      "pos": "N",
+      "english": "needle"
+    },
+    {
+      "idx": 25,
+      "trad": "敢",
+      "simp": "敢",
+      "pinyin": "gǎn",
+      "pos": "MV",
+      "english": "to dare"
+    },
+    {
+      "idx": 26,
+      "trad": "相信",
+      "simp": "相信",
+      "pinyin": "xiāngxìn",
+      "pos": "V",
+      "english": "to believe in; to have faith in"
+    },
+    {
+      "idx": 27,
+      "trad": "耳朵",
+      "simp": "耳朵",
+      "pinyin": "ěrduo",
+      "pos": "N",
+      "english": "ear"
+    },
+    {
+      "idx": 28,
+      "trad": "粗",
+      "simp": "粗",
+      "pinyin": "cū",
+      "pos": "SV",
+      "english": "wide (in diameter); thick"
+    },
+    {
+      "idx": 29,
+      "trad": "越來越",
+      "simp": "越来越",
+      "pinyin": "yuèláiyuè",
+      "pos": "Adv.",
+      "english": "more and more"
+    },
+    {
+      "idx": 30,
+      "trad": "細",
+      "simp": "细",
+      "pinyin": "xì",
+      "pos": "SV",
+      "english": "thin; slender"
+    },
+    {
+      "idx": 31,
+      "trad": "總",
+      "simp": "总",
+      "pinyin": "zǒng",
+      "pos": "Adv.",
+      "english": "sooner or later; eventually"
+    },
+    {
+      "idx": 32,
+      "trad": "把",
+      "simp": "把",
+      "pinyin": "bǎ",
+      "pos": "Prep.",
+      "english": "grammatical particle"
+    },
+    {
+      "idx": 33,
+      "trad": "感動",
+      "simp": "感动",
+      "pinyin": "gǎndòng",
+      "pos": "V/SV",
+      "english": "to move; to touch; touching"
+    },
+    {
+      "idx": 34,
+      "trad": "知識",
+      "simp": "知识",
+      "pinyin": "zhīshi",
+      "pos": "N",
+      "english": "knowledge"
+    },
+    {
+      "idx": 35,
+      "trad": "進步",
+      "simp": "进步",
+      "pinyin": "jìnbù",
+      "pos": "N/V",
+      "english": "to progress; to improve; progress; improvement"
+    },
+    {
+      "idx": 36,
+      "trad": "終於",
+      "simp": "终于",
+      "pinyin": "zhōngyú",
+      "pos": "Adv.",
+      "english": "at last; finally"
+    },
+    {
+      "idx": 37,
+      "trad": "成",
+      "simp": "成",
+      "pinyin": "chéng",
+      "pos": "V",
+      "english": "to become"
+    },
+    {
+      "idx": 38,
+      "trad": "深",
+      "simp": "深",
+      "pinyin": "shēn",
+      "pos": "SV",
+      "english": "deep"
+    },
+    {
+      "idx": 39,
+      "trad": "成為",
+      "simp": "成为",
+      "pinyin": "chéngwéi",
+      "pos": "V",
+      "english": "to become"
+    },
+    {
+      "idx": 40,
+      "trad": "教育",
+      "simp": "教育",
+      "pinyin": "jiàoyù",
+      "pos": "V/N",
+      "english": "to educate; education"
+    },
+    {
+      "idx": 41,
+      "trad": "恆心",
+      "simp": "恒心",
+      "pinyin": "héngxīn",
+      "pos": "N",
+      "english": "perseverance (in)"
+    },
+    {
+      "idx": 42,
+      "trad": "忘了",
+      "simp": "忘了",
+      "pinyin": "wàngle",
+      "pos": "V",
+      "english": "to forget"
+    },
+    {
+      "idx": 43,
+      "trad": "剛才",
+      "simp": "刚才",
+      "pinyin": "gāngcái",
+      "pos": "Adv.",
+      "english": "just now; a moment ago"
+    },
+    {
+      "idx": 44,
+      "trad": "農夫",
+      "simp": "农夫",
+      "pinyin": "nóngfū",
+      "pos": "N",
+      "english": "peasant; farmer"
+    },
+    {
+      "idx": 45,
+      "trad": "凍",
+      "simp": "冻",
+      "pinyin": "dòng",
+      "pos": "V",
+      "english": "to freeze"
+    },
+    {
+      "idx": 46,
+      "trad": "救活",
+      "simp": "救活",
+      "pinyin": "jiùhuó",
+      "pos": "VP",
+      "english": "to save (a life)"
+    },
+    {
+      "idx": 47,
+      "trad": "可憐",
+      "simp": "可怜",
+      "pinyin": "kělián",
+      "pos": "SV",
+      "english": "pitiful; to take pity on"
+    },
+    {
+      "idx": 48,
+      "trad": "胸口",
+      "simp": "胸口",
+      "pinyin": "xiōngkǒu",
+      "pos": "N",
+      "english": "chest"
+    },
+    {
+      "idx": 49,
+      "trad": "暖和",
+      "simp": "暖和",
+      "pinyin": "nuǎnhuo",
+      "pos": "SV",
+      "english": "warm"
+    },
+    {
+      "idx": 50,
+      "trad": "感激",
+      "simp": "感激",
+      "pinyin": "gǎnjī",
+      "pos": "V",
+      "english": "to feel grateful; indebted"
+    },
+    {
+      "idx": 51,
+      "trad": "咬",
+      "simp": "咬",
+      "pinyin": "yǎo",
+      "pos": "V",
+      "english": "to bite; to snap at"
+    },
+    {
+      "idx": 52,
+      "trad": "天性",
+      "simp": "天性",
+      "pinyin": "tiānxìng",
+      "pos": "N",
+      "english": "natural instincts; nature"
+    },
+    {
+      "idx": 53,
+      "trad": "壞人",
+      "simp": "坏人",
+      "pinyin": "huàirén",
+      "pos": "N",
+      "english": "evildoer; scoundrel"
+    }
+  ]
+}

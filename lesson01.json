@@ -1,0 +1,497 @@
+{
+  "meta": {
+    "lesson": 1,
+    "title": "第一課",
+    "grade": null
+  },
+  "entries": [
+    {
+      "idx": 1,
+      "trad": "中國",
+      "simp": "中国",
+      "pinyin": "Zhōngguó",
+      "pos": "PN",
+      "english": "China"
+    },
+    {
+      "idx": 2,
+      "trad": "人",
+      "simp": "人",
+      "pinyin": "rén",
+      "pos": "N",
+      "english": "human being; person; people"
+    },
+    {
+      "idx": 3,
+      "trad": "的",
+      "simp": "的",
+      "pinyin": "de",
+      "pos": "Pt.",
+      "english": "marker (of noun modifier)"
+    },
+    {
+      "idx": 4,
+      "trad": "姓",
+      "simp": "姓",
+      "pinyin": "xìng",
+      "pos": "V/N",
+      "english": "one’s surname is / surname"
+    },
+    {
+      "idx": 5,
+      "trad": "名",
+      "simp": "名",
+      "pinyin": "míng",
+      "pos": "N",
+      "english": "name; given name"
+    },
+    {
+      "idx": 6,
+      "trad": "前面",
+      "simp": "前面",
+      "pinyin": "qiánmian",
+      "pos": "L/PW",
+      "english": "the front; ahead; preceding"
+    },
+    {
+      "idx": 7,
+      "trad": "是",
+      "simp": "是",
+      "pinyin": "shì",
+      "pos": "V",
+      "english": "to be"
+    },
+    {
+      "idx": 8,
+      "trad": "後面",
+      "simp": "后面",
+      "pinyin": "hòumian",
+      "pos": "PW/N",
+      "english": "back; behind; rear"
+    },
+    {
+      "idx": 9,
+      "trad": "很",
+      "simp": "很",
+      "pinyin": "hěn",
+      "pos": "Adv.",
+      "english": "very; quite"
+    },
+    {
+      "idx": 10,
+      "trad": "多",
+      "simp": "多",
+      "pinyin": "duō",
+      "pos": "SV",
+      "english": "many; much"
+    },
+    {
+      "idx": 11,
+      "trad": "常用",
+      "simp": "常用",
+      "pinyin": "chángyòng",
+      "pos": "SV",
+      "english": "commonly used"
+    },
+    {
+      "idx": 12,
+      "trad": "有",
+      "simp": "有",
+      "pinyin": "yǒu",
+      "pos": "V",
+      "english": "have; exist; there is/are"
+    },
+    {
+      "idx": 13,
+      "trad": "一",
+      "simp": "一",
+      "pinyin": "yī",
+      "pos": "Nu",
+      "english": "one"
+    },
+    {
+      "idx": 14,
+      "trad": "百",
+      "simp": "百",
+      "pinyin": "bǎi",
+      "pos": "Nu",
+      "english": "hundred"
+    },
+    {
+      "idx": 15,
+      "trad": "個",
+      "simp": "个",
+      "pinyin": "gè",
+      "pos": "M",
+      "english": "general measure word"
+    },
+    {
+      "idx": 16,
+      "trad": "都",
+      "simp": "都",
+      "pinyin": "dōu",
+      "pos": "Adv.",
+      "english": "all"
+    },
+    {
+      "idx": 17,
+      "trad": "來源",
+      "simp": "来源",
+      "pinyin": "láiyuán",
+      "pos": "N",
+      "english": "origin; source"
+    },
+    {
+      "idx": 18,
+      "trad": "比方說",
+      "simp": "比方说",
+      "pinyin": "bǐfāngshuō",
+      "pos": "IE",
+      "english": "for example"
+    },
+    {
+      "idx": 19,
+      "trad": "以前",
+      "simp": "以前",
+      "pinyin": "yǐqián",
+      "pos": "TW",
+      "english": "before; formerly; previously"
+    },
+    {
+      "idx": 20,
+      "trad": "地名",
+      "simp": "地名",
+      "pinyin": "dìmíng",
+      "pos": "N",
+      "english": "place name"
+    },
+    {
+      "idx": 21,
+      "trad": "動物",
+      "simp": "动物",
+      "pinyin": "dòngwù",
+      "pos": "N",
+      "english": "animal"
+    },
+    {
+      "idx": 22,
+      "trad": "名字",
+      "simp": "名字",
+      "pinyin": "míngzi",
+      "pos": "N",
+      "english": "given name; full name"
+    },
+    {
+      "idx": 23,
+      "trad": "一定",
+      "simp": "一定",
+      "pinyin": "yídìng",
+      "pos": "SV/Adv.",
+      "english": "certain; certainly; definitely"
+    },
+    {
+      "idx": 24,
+      "trad": "意思",
+      "simp": "意思",
+      "pinyin": "yìsi",
+      "pos": "N",
+      "english": "meaning"
+    },
+    {
+      "idx": 25,
+      "trad": "有的",
+      "simp": "有的",
+      "pinyin": "yǒude",
+      "pos": "Pron.",
+      "english": "some"
+    },
+    {
+      "idx": 26,
+      "trad": "父",
+      "simp": "父",
+      "pinyin": "fù",
+      "pos": "N",
+      "english": "father"
+    },
+    {
+      "idx": 27,
+      "trad": "母",
+      "simp": "母",
+      "pinyin": "mǔ",
+      "pos": "N",
+      "english": "mother"
+    },
+    {
+      "idx": 28,
+      "trad": "希望",
+      "simp": "希望",
+      "pinyin": "xīwàng",
+      "pos": "V/N",
+      "english": "to hope; hope; to expect; expectation"
+    },
+    {
+      "idx": 29,
+      "trad": "男",
+      "simp": "男",
+      "pinyin": "nán",
+      "pos": "SV",
+      "english": "male (as modifier only)"
+    },
+    {
+      "idx": 30,
+      "trad": "孩",
+      "simp": "孩",
+      "pinyin": "hái",
+      "pos": "N",
+      "english": "child"
+    },
+    {
+      "idx": 31,
+      "trad": "叫",
+      "simp": "叫",
+      "pinyin": "jiào",
+      "pos": "V",
+      "english": "to call; to name; to be named"
+    },
+    {
+      "idx": 32,
+      "trad": "女",
+      "simp": "女",
+      "pinyin": "nǚ",
+      "pos": "SV",
+      "english": "female (as modifier only)"
+    },
+    {
+      "idx": 33,
+      "trad": "出生",
+      "simp": "出生",
+      "pinyin": "chūshēng",
+      "pos": "V",
+      "english": "to be born"
+    },
+    {
+      "idx": 34,
+      "trad": "地方",
+      "simp": "地方",
+      "pinyin": "dìfang",
+      "pos": "N",
+      "english": "place; space"
+    },
+    {
+      "idx": 35,
+      "trad": "北京",
+      "simp": "北京",
+      "pinyin": "Běijīng",
+      "pos": "PN",
+      "english": "Beijing (Peking)"
+    },
+    {
+      "idx": 36,
+      "trad": "可能",
+      "simp": "可能",
+      "pinyin": "kě'néng",
+      "pos": "Adv./SV",
+      "english": "probably; maybe; possible"
+    },
+    {
+      "idx": 37,
+      "trad": "美國",
+      "simp": "美国",
+      "pinyin": "Měiguó",
+      "pos": "PN",
+      "english": "America"
+    },
+    {
+      "idx": 38,
+      "trad": "也",
+      "simp": "也",
+      "pinyin": "yě",
+      "pos": "Adv.",
+      "english": "too; also; as well; either"
+    },
+    {
+      "idx": 39,
+      "trad": "時間",
+      "simp": "时间",
+      "pinyin": "shíjiān",
+      "pos": "N",
+      "english": "time"
+    },
+    {
+      "idx": 40,
+      "trad": "您",
+      "simp": "您",
+      "pinyin": "nín",
+      "pos": "Pron.",
+      "english": "(respectful, honorific) you"
+    },
+    {
+      "idx": 41,
+      "trad": "好",
+      "simp": "好",
+      "pinyin": "hǎo",
+      "pos": "SV",
+      "english": "good; well"
+    },
+    {
+      "idx": 42,
+      "trad": "請",
+      "simp": "请",
+      "pinyin": "qǐng",
+      "pos": "V",
+      "english": "please; to invite"
+    },
+    {
+      "idx": 43,
+      "trad": "問",
+      "simp": "问",
+      "pinyin": "wèn",
+      "pos": "V",
+      "english": "to ask"
+    },
+    {
+      "idx": 44,
+      "trad": "貴",
+      "simp": "贵",
+      "pinyin": "guì",
+      "pos": "SV",
+      "english": "(honorific) your; expensive; costly"
+    },
+    {
+      "idx": 45,
+      "trad": "我",
+      "simp": "我",
+      "pinyin": "wǒ",
+      "pos": "Pron.",
+      "english": "I; me"
+    },
+    {
+      "idx": 46,
+      "trad": "呢",
+      "simp": "呢",
+      "pinyin": "ne",
+      "pos": "Pt.",
+      "english": "particle for follow-up questions"
+    },
+    {
+      "idx": 47,
+      "trad": "吧",
+      "simp": "吧",
+      "pinyin": "ba",
+      "pos": "Pt.",
+      "english": "particle for presuppositions, suggestions, etc."
+    },
+    {
+      "idx": 48,
+      "trad": "先生",
+      "simp": "先生",
+      "pinyin": "xiānsheng",
+      "pos": "N",
+      "english": "gentleman; Mr.; husband"
+    },
+    {
+      "idx": 49,
+      "trad": "小姐",
+      "simp": "小姐",
+      "pinyin": "xiǎojie",
+      "pos": "N",
+      "english": "Miss; young lady"
+    },
+    {
+      "idx": 50,
+      "trad": "甚麼",
+      "simp": "什么",
+      "pinyin": "shénme",
+      "pos": "QW",
+      "english": "what"
+    },
+    {
+      "idx": 51,
+      "trad": "上海",
+      "simp": "上海",
+      "pinyin": "Shànghǎi",
+      "pos": "PN",
+      "english": "Shanghai"
+    },
+    {
+      "idx": 52,
+      "trad": "這",
+      "simp": "这",
+      "pinyin": "zhè/zhèi",
+      "pos": "Pron.",
+      "english": "this"
+    },
+    {
+      "idx": 53,
+      "trad": "太太",
+      "simp": "太太",
+      "pinyin": "tàitai",
+      "pos": "N",
+      "english": "lady; Mrs.; wife"
+    },
+    {
+      "idx": 54,
+      "trad": "高興",
+      "simp": "高兴",
+      "pinyin": "gāoxìng",
+      "pos": "SV",
+      "english": "happy; glad"
+    },
+    {
+      "idx": 55,
+      "trad": "認識",
+      "simp": "认识",
+      "pinyin": "rènshi",
+      "pos": "V",
+      "english": "to know; to recognize"
+    },
+    {
+      "idx": 56,
+      "trad": "你",
+      "simp": "你",
+      "pinyin": "nǐ",
+      "pos": "Pron.",
+      "english": "you"
+    },
+    {
+      "idx": 57,
+      "trad": "嗎",
+      "simp": "吗",
+      "pinyin": "ma",
+      "pos": "Pt.",
+      "english": "particle for yes/no questions"
+    },
+    {
+      "idx": 58,
+      "trad": "不",
+      "simp": "不",
+      "pinyin": "bù",
+      "pos": "Adv.",
+      "english": "no; not"
+    },
+    {
+      "idx": 59,
+      "trad": "那",
+      "simp": "那",
+      "pinyin": "nà/nèi",
+      "pos": "Pron.",
+      "english": "that"
+    },
+    {
+      "idx": 60,
+      "trad": "位",
+      "simp": "位",
+      "pinyin": "wèi",
+      "pos": "M",
+      "english": "polite measure word for persons"
+    },
+    {
+      "idx": 61,
+      "trad": "哦",
+      "simp": "哦",
+      "pinyin": "ō, ò",
+      "pos": "Interj.",
+      "english": "Oh!"
+    }
+  ]
+}

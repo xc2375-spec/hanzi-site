@@ -1,0 +1,441 @@
+{
+  "meta": {
+    "lesson": 7,
+    "title": "第七課",
+    "grade": null
+  },
+  "entries": [
+    {
+      "idx": 1,
+      "trad": "萬",
+      "simp": "万",
+      "pinyin": "wàn",
+      "pos": "Nu",
+      "english": "ten thousand"
+    },
+    {
+      "idx": 2,
+      "trad": "里",
+      "simp": "里",
+      "pinyin": "lǐ",
+      "pos": "M",
+      "english": "a Chinese unit of length (= 1/2 km)"
+    },
+    {
+      "idx": 3,
+      "trad": "長城",
+      "simp": "长城",
+      "pinyin": "Chángchéng",
+      "pos": "PN",
+      "english": "the Great Wall"
+    },
+    {
+      "idx": 4,
+      "trad": "長",
+      "simp": "长",
+      "pinyin": "cháng",
+      "pos": "SV",
+      "english": "long"
+    },
+    {
+      "idx": 5,
+      "trad": "道",
+      "simp": "道",
+      "pinyin": "dào",
+      "pos": "M",
+      "english": "measure word for long and slender objects"
+    },
+    {
+      "idx": 6,
+      "trad": "城牆",
+      "simp": "城墙",
+      "pinyin": "chéngqiáng",
+      "pos": "N",
+      "english": "city wall"
+    },
+    {
+      "idx": 7,
+      "trad": "聞名",
+      "simp": "闻名",
+      "pinyin": "wénmíng",
+      "pos": "SV",
+      "english": "famous; well-known"
+    },
+    {
+      "idx": 8,
+      "trad": "建",
+      "simp": "建",
+      "pinyin": "jiàn",
+      "pos": "V",
+      "english": "to build; to construct; to establish"
+    },
+    {
+      "idx": 9,
+      "trad": "為了",
+      "simp": "为了",
+      "pinyin": "wèile",
+      "pos": "Prep.",
+      "english": "for the sake of; in order to"
+    },
+    {
+      "idx": 10,
+      "trad": "保護",
+      "simp": "保护",
+      "pinyin": "bǎohù",
+      "pos": "V",
+      "english": "to protect"
+    },
+    {
+      "idx": 11,
+      "trad": "四周",
+      "simp": "四周",
+      "pinyin": "sìzhōu",
+      "pos": "PW",
+      "english": "all around"
+    },
+    {
+      "idx": 12,
+      "trad": "築",
+      "simp": "筑",
+      "pinyin": "zhù",
+      "pos": "V",
+      "english": "to build; to construct"
+    },
+    {
+      "idx": 13,
+      "trad": "起",
+      "simp": "起",
+      "pinyin": "qǐ",
+      "pos": "Adv.",
+      "english": "up"
+    },
+    {
+      "idx": 14,
+      "trad": "統一",
+      "simp": "统一",
+      "pinyin": "tǒngyī",
+      "pos": "V/SV",
+      "english": "to unify; to unite; unified; united"
+    },
+    {
+      "idx": 15,
+      "trad": "國家",
+      "simp": "国家",
+      "pinyin": "guójiā",
+      "pos": "N",
+      "english": "country"
+    },
+    {
+      "idx": 16,
+      "trad": "外國人",
+      "simp": "外国人",
+      "pinyin": "wàiguórén",
+      "pos": "N",
+      "english": "foreigner"
+    },
+    {
+      "idx": 17,
+      "trad": "連接",
+      "simp": "连接",
+      "pinyin": "liánjiē",
+      "pos": "V",
+      "english": "to link; to join"
+    },
+    {
+      "idx": 18,
+      "trad": "這樣",
+      "simp": "这样",
+      "pinyin": "zhèyàng",
+      "pos": "IE",
+      "english": "in this way"
+    },
+    {
+      "idx": 19,
+      "trad": "當時",
+      "simp": "当时",
+      "pinyin": "dāngshí",
+      "pos": "TW",
+      "english": "then; at that time"
+    },
+    {
+      "idx": 20,
+      "trad": "進",
+      "simp": "进",
+      "pinyin": "jìn",
+      "pos": "V",
+      "english": "to enter; to advance"
+    },
+    {
+      "idx": 21,
+      "trad": "容易",
+      "simp": "容易",
+      "pinyin": "róngyi",
+      "pos": "SV",
+      "english": "easy"
+    },
+    {
+      "idx": 22,
+      "trad": "發現",
+      "simp": "发现",
+      "pinyin": "fāxiàn",
+      "pos": "V",
+      "english": "to discover; to find"
+    },
+    {
+      "idx": 23,
+      "trad": "敵人",
+      "simp": "敌人",
+      "pinyin": "dírén",
+      "pos": "N",
+      "english": "enemy"
+    },
+    {
+      "idx": 24,
+      "trad": "燒火",
+      "simp": "烧火",
+      "pinyin": "shāo huǒ",
+      "pos": "VO",
+      "english": "to make a fire; to light a fire"
+    },
+    {
+      "idx": 25,
+      "trad": "煙",
+      "simp": "烟",
+      "pinyin": "yān",
+      "pos": "N",
+      "english": "smoke"
+    },
+    {
+      "idx": 26,
+      "trad": "消息",
+      "simp": "消息",
+      "pinyin": "xiāoxi",
+      "pos": "N",
+      "english": "news"
+    },
+    {
+      "idx": 27,
+      "trad": "傳",
+      "simp": "传",
+      "pinyin": "chuán",
+      "pos": "V",
+      "english": "to pass on; to convey"
+    },
+    {
+      "idx": 28,
+      "trad": "電話",
+      "simp": "电话",
+      "pinyin": "diànhuà",
+      "pos": "N",
+      "english": "telephone"
+    },
+    {
+      "idx": 29,
+      "trad": "電報",
+      "simp": "电报",
+      "pinyin": "diànbào",
+      "pos": "N",
+      "english": "telegraph"
+    },
+    {
+      "idx": 30,
+      "trad": "種",
+      "simp": "种",
+      "pinyin": "zhǒng",
+      "pos": "M",
+      "english": "kind; sort; type"
+    },
+    {
+      "idx": 31,
+      "trad": "辦法",
+      "simp": "办法",
+      "pinyin": "bànfǎ",
+      "pos": "N",
+      "english": "way; means; method"
+    },
+    {
+      "idx": 32,
+      "trad": "有用",
+      "simp": "有用",
+      "pinyin": "yǒuyòng",
+      "pos": "SV",
+      "english": "useful; effective"
+    },
+    {
+      "idx": 33,
+      "trad": "女子",
+      "simp": "女子",
+      "pinyin": "nǚzǐ",
+      "pos": "N",
+      "english": "young woman"
+    },
+    {
+      "idx": 34,
+      "trad": "抓",
+      "simp": "抓",
+      "pinyin": "zhuā",
+      "pos": "V",
+      "english": "to force to go; to arrest"
+    },
+    {
+      "idx": 35,
+      "trad": "丈夫",
+      "simp": "丈夫",
+      "pinyin": "zhàngfu",
+      "pos": "N",
+      "english": "husband"
+    },
+    {
+      "idx": 36,
+      "trad": "窗",
+      "simp": "窗",
+      "pinyin": "chuāng",
+      "pos": "N",
+      "english": "window"
+    },
+    {
+      "idx": 37,
+      "trad": "衣服",
+      "simp": "衣服",
+      "pinyin": "yīfu",
+      "pos": "N",
+      "english": "clothes"
+    },
+    {
+      "idx": 38,
+      "trad": "當……時",
+      "simp": "当……时",
+      "pinyin": "dāng……shí",
+      "pos": "Conj.",
+      "english": "When ..."
+    },
+    {
+      "idx": 39,
+      "trad": "找到",
+      "simp": "找到",
+      "pinyin": "zhǎodào",
+      "pos": "VP",
+      "english": "to find"
+    },
+    {
+      "idx": 40,
+      "trad": "哭",
+      "simp": "哭",
+      "pinyin": "kū",
+      "pos": "V",
+      "english": "to cry; to weep"
+    },
+    {
+      "idx": 41,
+      "trad": "夜",
+      "simp": "夜",
+      "pinyin": "yè",
+      "pos": "N",
+      "english": "night"
+    },
+    {
+      "idx": 42,
+      "trad": "倒",
+      "simp": "倒",
+      "pinyin": "dǎo",
+      "pos": "V",
+      "english": "to collapse; to fall"
+    },
+    {
+      "idx": 43,
+      "trad": "古老",
+      "simp": "古老",
+      "pinyin": "gǔlǎo",
+      "pos": "SV",
+      "english": "ancient"
+    },
+    {
+      "idx": 44,
+      "trad": "文化",
+      "simp": "文化",
+      "pinyin": "wénhuà",
+      "pos": "N",
+      "english": "culture"
+    },
+    {
+      "idx": 45,
+      "trad": "象徵",
+      "simp": "象征",
+      "pinyin": "xiàngzhēng",
+      "pos": "N/V",
+      "english": "symbol; to symbolize"
+    },
+    {
+      "idx": 46,
+      "trad": "親眼",
+      "simp": "亲眼",
+      "pinyin": "qīnyǎn",
+      "pos": "Adv.",
+      "english": "(to see) with one's own eyes"
+    },
+    {
+      "idx": 47,
+      "trad": "了不起",
+      "simp": "了不起",
+      "pinyin": "liǎobuqǐ",
+      "pos": "IE",
+      "english": "excellent; amazing; remarkable"
+    },
+    {
+      "idx": 48,
+      "trad": "老話",
+      "simp": "老话",
+      "pinyin": "lǎohuà",
+      "pos": "N",
+      "english": "old saying"
+    },
+    {
+      "idx": 49,
+      "trad": "扶",
+      "simp": "扶",
+      "pinyin": "fú",
+      "pos": "V",
+      "english": "to support with the hand; to hold by the arm"
+    },
+    {
+      "idx": 50,
+      "trad": "坐",
+      "simp": "坐",
+      "pinyin": "zuò",
+      "pos": "V",
+      "english": "to sit"
+    },
+    {
+      "idx": 51,
+      "trad": "休息",
+      "simp": "休息",
+      "pinyin": "xiūxi",
+      "pos": "V",
+      "english": "to rest; to take a break"
+    },
+    {
+      "idx": 52,
+      "trad": "照相",
+      "simp": "照相",
+      "pinyin": "zhàoxiàng",
+      "pos": "VO",
+      "english": "to take pictures; to photograph"
+    },
+    {
+      "idx": 53,
+      "trad": "張",
+      "simp": "张",
+      "pinyin": "zhāng",
+      "pos": "M",
+      "english": "measure word for sheets of paper, pictures"
+    },
+    {
+      "idx": 54,
+      "trad": "謝謝",
+      "simp": "谢谢",
+      "pinyin": "xièxie",
+      "pos": "IE",
+      "english": "thank you"
+    }
+  ]
+}

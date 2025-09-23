@@ -1,0 +1,689 @@
+{
+  "meta": {
+    "lesson": 2,
+    "title": "第二課",
+    "grade": null
+  },
+  "entries": [
+    {
+      "idx": 1,
+      "trad": "家庭",
+      "simp": "家庭",
+      "pinyin": "jiātíng",
+      "pos": "N",
+      "english": "family"
+    },
+    {
+      "idx": 2,
+      "trad": "大",
+      "simp": "大",
+      "pinyin": "dà",
+      "pos": "SV",
+      "english": "big"
+    },
+    {
+      "idx": 3,
+      "trad": "幾",
+      "simp": "几",
+      "pinyin": "jǐ",
+      "pos": "Nu./QW",
+      "english": "several; how many"
+    },
+    {
+      "idx": 4,
+      "trad": "代",
+      "simp": "代",
+      "pinyin": "dài",
+      "pos": "M",
+      "english": "generation"
+    },
+    {
+      "idx": 5,
+      "trad": "住",
+      "simp": "住",
+      "pinyin": "zhù",
+      "pos": "V",
+      "english": "to live"
+    },
+    {
+      "idx": 6,
+      "trad": "在",
+      "simp": "在",
+      "pinyin": "zài",
+      "pos": "CV",
+      "english": "at; on; in"
+    },
+    {
+      "idx": 7,
+      "trad": "一起",
+      "simp": "一起",
+      "pinyin": "yìqǐ",
+      "pos": "Adv.",
+      "english": "together"
+    },
+    {
+      "idx": 8,
+      "trad": "老",
+      "simp": "老",
+      "pinyin": "lǎo",
+      "pos": "SV",
+      "english": "old"
+    },
+    {
+      "idx": 9,
+      "trad": "少",
+      "simp": "少",
+      "pinyin": "shào",
+      "pos": "SV",
+      "english": "young"
+    },
+    {
+      "idx": 10,
+      "trad": "口",
+      "simp": "口",
+      "pinyin": "kǒu",
+      "pos": "N/M",
+      "english": "mouth; head (people of a family)"
+    },
+    {
+      "idx": 11,
+      "trad": "少",
+      "simp": "少",
+      "pinyin": "shǎo",
+      "pos": "SV",
+      "english": "few"
+    },
+    {
+      "idx": 12,
+      "trad": "家長",
+      "simp": "家长",
+      "pinyin": "jiāzhǎng",
+      "pos": "N",
+      "english": "the head of a family; patriarch"
+    },
+    {
+      "idx": 13,
+      "trad": "聽話",
+      "simp": "听话",
+      "pinyin": "tīnghuà",
+      "pos": "VO/SV",
+      "english": "to heed what an elder or superior says; to be obedient"
+    },
+    {
+      "idx": 14,
+      "trad": "裡",
+      "simp": "里",
+      "pinyin": "lǐ",
+      "pos": "Loc.",
+      "english": "in; inside"
+    },
+    {
+      "idx": 15,
+      "trad": "照顧",
+      "simp": "照顾",
+      "pinyin": "zhàogù",
+      "pos": "V",
+      "english": "to look after"
+    },
+    {
+      "idx": 16,
+      "trad": "了",
+      "simp": "了",
+      "pinyin": "le",
+      "pos": "Pt.",
+      "english": "(indicates a change of state)"
+    },
+    {
+      "idx": 17,
+      "trad": "以後",
+      "simp": "以后",
+      "pinyin": "yǐhòu",
+      "pos": "TW",
+      "english": "after; later"
+    },
+    {
+      "idx": 18,
+      "trad": "兄弟",
+      "simp": "兄弟",
+      "pinyin": "xiōngdì",
+      "pos": "N",
+      "english": "brothers"
+    },
+    {
+      "idx": 19,
+      "trad": "互相",
+      "simp": "互相",
+      "pinyin": "hùxiāng",
+      "pos": "Adv.",
+      "english": "mutually; each other"
+    },
+    {
+      "idx": 20,
+      "trad": "幫助",
+      "simp": "帮助",
+      "pinyin": "bāngzhù",
+      "pos": "V",
+      "english": "to help"
+    },
+    {
+      "idx": 21,
+      "trad": "一些",
+      "simp": "一些",
+      "pinyin": "yīxiē",
+      "pos": "Pron.",
+      "english": "some"
+    },
+    {
+      "idx": 22,
+      "trad": "問題",
+      "simp": "问题",
+      "pinyin": "wèntí",
+      "pos": "N",
+      "english": "problem; question"
+    },
+    {
+      "idx": 23,
+      "trad": "常常",
+      "simp": "常常",
+      "pinyin": "chángcháng",
+      "pos": "Adv.",
+      "english": "often"
+    },
+    {
+      "idx": 24,
+      "trad": "替",
+      "simp": "替",
+      "pinyin": "tì",
+      "pos": "CV/V",
+      "english": "for (take the place of); to replace"
+    },
+    {
+      "idx": 25,
+      "trad": "自己",
+      "simp": "自己",
+      "pinyin": "zìjǐ",
+      "pos": "Pron.",
+      "english": "self"
+    },
+    {
+      "idx": 26,
+      "trad": "決定",
+      "simp": "决定",
+      "pinyin": "juédìng",
+      "pos": "V/N",
+      "english": "to decide; decision"
+    },
+    {
+      "idx": 27,
+      "trad": "應該",
+      "simp": "应该",
+      "pinyin": "yīnggāi",
+      "pos": "MV",
+      "english": "should; ought to"
+    },
+    {
+      "idx": 28,
+      "trad": "跟",
+      "simp": "跟",
+      "pinyin": "gēn",
+      "pos": "CV/V",
+      "english": "with; and; follow"
+    },
+    {
+      "idx": 29,
+      "trad": "誰",
+      "simp": "谁",
+      "pinyin": "shéi/shuí",
+      "pos": "QW",
+      "english": "who; whom"
+    },
+    {
+      "idx": 30,
+      "trad": "結婚",
+      "simp": "结婚",
+      "pinyin": "jiéhūn",
+      "pos": "VO",
+      "english": "to marry"
+    },
+    {
+      "idx": 31,
+      "trad": "還",
+      "simp": "还",
+      "pinyin": "hái",
+      "pos": "Adv.",
+      "english": "still; yet"
+    },
+    {
+      "idx": 32,
+      "trad": "只",
+      "simp": "只",
+      "pinyin": "zhǐ",
+      "pos": "Adv.",
+      "english": "only"
+    },
+    {
+      "idx": 33,
+      "trad": "想",
+      "simp": "想",
+      "pinyin": "xiǎng",
+      "pos": "V/MV",
+      "english": "to think; to miss; to want"
+    },
+    {
+      "idx": 34,
+      "trad": "要",
+      "simp": "要",
+      "pinyin": "yào",
+      "pos": "V/MV",
+      "english": "to want; to need; to be about to"
+    },
+    {
+      "idx": 35,
+      "trad": "現在",
+      "simp": "现在",
+      "pinyin": "xiànzài",
+      "pos": "TW",
+      "english": "now; at present"
+    },
+    {
+      "idx": 36,
+      "trad": "已經",
+      "simp": "已经",
+      "pinyin": "yǐjīng",
+      "pos": "Adv.",
+      "english": "already"
+    },
+    {
+      "idx": 37,
+      "trad": "現代",
+      "simp": "现代",
+      "pinyin": "xiàndài",
+      "pos": "N/SV",
+      "english": "modern times; modern"
+    },
+    {
+      "idx": 38,
+      "trad": "和",
+      "simp": "和",
+      "pinyin": "hé",
+      "pos": "Conj.",
+      "english": "and"
+    },
+    {
+      "idx": 39,
+      "trad": "啊",
+      "simp": "啊",
+      "pinyin": "a",
+      "pos": "Pt.",
+      "english": "(indicates doubt or questioning)"
+    },
+    {
+      "idx": 40,
+      "trad": "為甚麼",
+      "simp": "为什么",
+      "pinyin": "wèishénme",
+      "pos": "QW",
+      "english": "why"
+    },
+    {
+      "idx": 41,
+      "trad": "能",
+      "simp": "能",
+      "pinyin": "néng",
+      "pos": "MV",
+      "english": "to be able to"
+    },
+    {
+      "idx": 42,
+      "trad": "兩",
+      "simp": "两",
+      "pinyin": "liǎng",
+      "pos": "Nu",
+      "english": "two (used before a measure word)"
+    },
+    {
+      "idx": 43,
+      "trad": "這兒",
+      "simp": "这儿",
+      "pinyin": "zhèr",
+      "pos": "PW",
+      "english": "here"
+    },
+    {
+      "idx": 44,
+      "trad": "做",
+      "simp": "做",
+      "pinyin": "zuò",
+      "pos": "V",
+      "english": "to do"
+    },
+    {
+      "idx": 45,
+      "trad": "忙",
+      "simp": "忙",
+      "pinyin": "máng",
+      "pos": "SV",
+      "english": "busy"
+    },
+    {
+      "idx": 46,
+      "trad": "著急",
+      "simp": "着急",
+      "pinyin": "zháojí",
+      "pos": "SV/V",
+      "english": "worried; to feel anxious; to worry"
+    },
+    {
+      "idx": 47,
+      "trad": "為",
+      "simp": "为",
+      "pinyin": "wèi",
+      "pos": "CV",
+      "english": "for"
+    },
+    {
+      "idx": 48,
+      "trad": "事",
+      "simp": "事",
+      "pinyin": "shì",
+      "pos": "N",
+      "english": "thing; matter"
+    },
+    {
+      "idx": 49,
+      "trad": "件",
+      "simp": "件",
+      "pinyin": "jiàn",
+      "pos": "M",
+      "english": "measure word for clothes or matters"
+    },
+    {
+      "idx": 50,
+      "trad": "說",
+      "simp": "说",
+      "pinyin": "shuō",
+      "pos": "V",
+      "english": "to speak"
+    },
+    {
+      "idx": 51,
+      "trad": "主意",
+      "simp": "主意",
+      "pinyin": "zhǔyi",
+      "pos": "N",
+      "english": "idea"
+    },
+    {
+      "idx": 52,
+      "trad": "明天",
+      "simp": "明天",
+      "pinyin": "míngtiān",
+      "pos": "TW",
+      "english": "tomorrow"
+    },
+    {
+      "idx": 53,
+      "trad": "生日",
+      "simp": "生日",
+      "pinyin": "shēngrì",
+      "pos": "N",
+      "english": "birthday"
+    },
+    {
+      "idx": 54,
+      "trad": "給",
+      "simp": "给",
+      "pinyin": "gěi",
+      "pos": "CV/V",
+      "english": "for (for the benefit of); to; to give"
+    },
+    {
+      "idx": 55,
+      "trad": "買",
+      "simp": "买",
+      "pinyin": "mǎi",
+      "pos": "V",
+      "english": "to buy"
+    },
+    {
+      "idx": 56,
+      "trad": "樣",
+      "simp": "样",
+      "pinyin": "yàng",
+      "pos": "N",
+      "english": "pattern"
+    },
+    {
+      "idx": 57,
+      "trad": "東西",
+      "simp": "东西",
+      "pinyin": "dōngxi",
+      "pos": "N",
+      "english": "thing; object"
+    },
+    {
+      "idx": 58,
+      "trad": "錢",
+      "simp": "钱",
+      "pinyin": "qián",
+      "pos": "N",
+      "english": "money"
+    },
+    {
+      "idx": 59,
+      "trad": "沒有",
+      "simp": "没有",
+      "pinyin": "méiyǒu",
+      "pos": "V",
+      "english": "do not have; without"
+    },
+    {
+      "idx": 60,
+      "trad": "對",
+      "simp": "对",
+      "pinyin": "duì",
+      "pos": "SV",
+      "english": "right"
+    },
+    {
+      "idx": 61,
+      "trad": "用",
+      "simp": "用",
+      "pinyin": "yòng",
+      "pos": "V/CV",
+      "english": "to use; with; by means of"
+    },
+    {
+      "idx": 62,
+      "trad": "這些",
+      "simp": "这些",
+      "pinyin": "zhèxiē",
+      "pos": "Pron.",
+      "english": "these"
+    },
+    {
+      "idx": 63,
+      "trad": "一共",
+      "simp": "一共",
+      "pinyin": "yígòng",
+      "pos": "Adv.",
+      "english": "altogether"
+    },
+    {
+      "idx": 64,
+      "trad": "塊",
+      "simp": "块",
+      "pinyin": "kuài",
+      "pos": "M",
+      "english": "unit of currency; piece"
+    },
+    {
+      "idx": 65,
+      "trad": "朋友",
+      "simp": "朋友",
+      "pinyin": "péngyou",
+      "pos": "N",
+      "english": "friend"
+    },
+    {
+      "idx": 66,
+      "trad": "介紹",
+      "simp": "介绍",
+      "pinyin": "jièshào",
+      "pos": "V/N",
+      "english": "to introduce; introduction"
+    },
+    {
+      "idx": 67,
+      "trad": "英文",
+      "simp": "英文",
+      "pinyin": "yīngwén",
+      "pos": "N",
+      "english": "English"
+    },
+    {
+      "idx": 68,
+      "trad": "可以",
+      "simp": "可以",
+      "pinyin": "kěyǐ",
+      "pos": "MV",
+      "english": "may; can"
+    },
+    {
+      "idx": 69,
+      "trad": "學",
+      "simp": "学",
+      "pinyin": "xué",
+      "pos": "V",
+      "english": "to study; to learn"
+    },
+    {
+      "idx": 70,
+      "trad": "嘛",
+      "simp": "嘛",
+      "pinyin": "ma",
+      "pos": "Pt.",
+      "english": "used to emphasize the obvious"
+    },
+    {
+      "idx": 71,
+      "trad": "一",
+      "simp": "一",
+      "pinyin": "yī",
+      "pos": "Nu.",
+      "english": "one"
+    },
+    {
+      "idx": 72,
+      "trad": "二",
+      "simp": "二",
+      "pinyin": "èr",
+      "pos": "Nu.",
+      "english": "two"
+    },
+    {
+      "idx": 73,
+      "trad": "三",
+      "simp": "三",
+      "pinyin": "sān",
+      "pos": "Nu.",
+      "english": "three"
+    },
+    {
+      "idx": 74,
+      "trad": "四",
+      "simp": "四",
+      "pinyin": "sì",
+      "pos": "Nu.",
+      "english": "four"
+    },
+    {
+      "idx": 75,
+      "trad": "五",
+      "simp": "五",
+      "pinyin": "wǔ",
+      "pos": "Nu.",
+      "english": "five"
+    },
+    {
+      "idx": 76,
+      "trad": "六",
+      "simp": "六",
+      "pinyin": "liù",
+      "pos": "Nu.",
+      "english": "six"
+    },
+    {
+      "idx": 77,
+      "trad": "七",
+      "simp": "七",
+      "pinyin": "qī",
+      "pos": "Nu.",
+      "english": "seven"
+    },
+    {
+      "idx": 78,
+      "trad": "八",
+      "simp": "八",
+      "pinyin": "bā",
+      "pos": "Nu.",
+      "english": "eight"
+    },
+    {
+      "idx": 79,
+      "trad": "九",
+      "simp": "九",
+      "pinyin": "jiǔ",
+      "pos": "Nu.",
+      "english": "nine"
+    },
+    {
+      "idx": 80,
+      "trad": "十",
+      "simp": "十",
+      "pinyin": "shí",
+      "pos": "Nu.",
+      "english": "ten"
+    },
+    {
+      "idx": 81,
+      "trad": "百",
+      "simp": "百",
+      "pinyin": "bǎi",
+      "pos": "Nu.",
+      "english": "hundred"
+    },
+    {
+      "idx": 82,
+      "trad": "千",
+      "simp": "千",
+      "pinyin": "qiān",
+      "pos": "Nu.",
+      "english": "thousand"
+    },
+    {
+      "idx": 83,
+      "trad": "萬",
+      "simp": "万",
+      "pinyin": "wàn",
+      "pos": "Nu.",
+      "english": "ten thousand"
+    },
+    {
+      "idx": 84,
+      "trad": "億",
+      "simp": "亿",
+      "pinyin": "yì",
+      "pos": "Nu.",
+      "english": "hundred million"
+    },
+    {
+      "idx": 85,
+      "trad": "零",
+      "simp": "零",
+      "pinyin": "líng",
+      "pos": "Nu.",
+      "english": "zero"
+    }
+  ]
+}
