@@ -7,403 +7,483 @@
   "entries": [
     {
       "idx": 1,
-      "trad": "古",
-      "simp": "古",
-      "pinyin": "gǔ",
+      "trad": "高",
+      "simp": "高",
+      "pinyin": "gāo",
       "pos": "SV",
-      "english": "ancient"
+      "english": "high; tall"
     },
     {
       "idx": 2,
-      "trad": "時候",
-      "simp": "时候",
-      "pinyin": "shíhou",
-      "pos": "TW/N",
-      "english": "time; when ..."
+      "trad": "山",
+      "simp": "山",
+      "pinyin": "shān",
+      "pos": "N",
+      "english": "mountain"
     },
     {
       "idx": 3,
-      "trad": "天",
-      "simp": "天",
-      "pinyin": "tiān",
+      "trad": "河",
+      "simp": "河",
+      "pinyin": "hé",
       "pos": "N",
-      "english": "sky; heaven"
+      "english": "river"
     },
     {
       "idx": 4,
-      "trad": "太陽",
-      "simp": "太阳",
-      "pinyin": "tàiyáng",
-      "pos": "N",
-      "english": "sun"
+      "trad": "最",
+      "simp": "最",
+      "pinyin": "zuì",
+      "pos": "Adv.",
+      "english": "most (used to form superlative)"
     },
     {
       "idx": 5,
-      "trad": "長得",
-      "simp": "长得",
-      "pinyin": "zhǎngde",
-      "pos": "V",
-      "english": "to grow up to look like ..."
+      "trad": "條",
+      "simp": "条",
+      "pinyin": "tiáo",
+      "pos": "M",
+      "english": "measure word for river and various long, narrow things"
     },
     {
       "idx": 6,
-      "trad": "完全",
-      "simp": "完全",
-      "pinyin": "wánquán",
-      "pos": "Adv.",
-      "english": "completely; entirely; absolutely"
+      "trad": "部",
+      "simp": "部",
+      "pinyin": "bù",
+      "pos": "Loc.",
+      "english": "part; section"
     },
     {
       "idx": 7,
-      "trad": "每",
-      "simp": "每",
-      "pinyin": "měi",
-      "pos": "Adj.",
-      "english": "every"
+      "trad": "長江",
+      "simp": "长江",
+      "pinyin": "Chángjiāng",
+      "pos": "PN",
+      "english": "Yangtze River"
     },
     {
       "idx": 8,
-      "trad": "到",
-      "simp": "到",
-      "pinyin": "dào",
-      "pos": "V/CV",
-      "english": "to arrive; to reach; to"
+      "trad": "南",
+      "simp": "南",
+      "pinyin": "nán",
+      "pos": "N",
+      "english": "south"
     },
     {
       "idx": 9,
-      "trad": "去",
-      "simp": "去",
-      "pinyin": "qù",
-      "pos": "V",
-      "english": "to go"
+      "trad": "邊",
+      "simp": "边",
+      "pinyin": "biān",
+      "pos": "N/Loc.",
+      "english": "side"
     },
     {
       "idx": 10,
-      "trad": "東方",
-      "simp": "东方",
-      "pinyin": "dōngfāng",
+      "trad": "南方",
+      "simp": "南方",
+      "pinyin": "nánfāng",
       "pos": "N",
-      "english": "the east"
+      "english": "the south"
     },
     {
       "idx": 11,
-      "trad": "最後",
-      "simp": "最后",
-      "pinyin": "zuìhòu",
-      "pos": "Adv./SV",
-      "english": "finally; the last"
+      "trad": "夏天",
+      "simp": "夏天",
+      "pinyin": "xiàtiān",
+      "pos": "N",
+      "english": "summer"
     },
     {
       "idx": 12,
-      "trad": "飛",
-      "simp": "飞",
-      "pinyin": "fēi",
-      "pos": "V",
-      "english": "to fly"
+      "trad": "熱",
+      "simp": "热",
+      "pinyin": "rè",
+      "pos": "SV",
+      "english": "hot"
     },
     {
       "idx": 13,
-      "trad": "西方",
-      "simp": "西方",
-      "pinyin": "xīfāng",
-      "pos": "N",
-      "english": "the west"
+      "trad": "下雨",
+      "simp": "下雨",
+      "pinyin": "xiàyǔ",
+      "pos": "VO",
+      "english": "to rain"
     },
     {
       "idx": 14,
-      "trad": "回",
-      "simp": "回",
-      "pinyin": "huí",
-      "pos": "V",
-      "english": "to return; to go back"
+      "trad": "那裡",
+      "simp": "那里",
+      "pinyin": "nàlǐ",
+      "pos": "PW",
+      "english": "there"
     },
     {
       "idx": 15,
-      "trad": "就是",
-      "simp": "就是",
-      "pinyin": "jiùshì",
-      "pos": "V",
-      "english": "namely; to be no other than"
+      "trad": "湖",
+      "simp": "湖",
+      "pinyin": "hú",
+      "pos": "N",
+      "english": "lake"
     },
     {
       "idx": 16,
-      "trad": "知道",
-      "simp": "知道",
-      "pinyin": "zhīdào",
-      "pos": "V",
-      "english": "to know; to realize; to be aware of"
+      "trad": "樹",
+      "simp": "树",
+      "pinyin": "shù",
+      "pos": "N",
+      "english": "tree"
     },
     {
       "idx": 17,
-      "trad": "覺得",
-      "simp": "觉得",
-      "pinyin": "juéde",
-      "pos": "V",
-      "english": "to sense; to feel"
+      "trad": "愛",
+      "simp": "爱",
+      "pinyin": "ài",
+      "pos": "MV/V",
+      "english": "to love"
     },
     {
       "idx": 18,
-      "trad": "有意思",
-      "simp": "有意思",
-      "pinyin": "yǒuyìsi",
-      "pos": "SV",
-      "english": "interesting"
+      "trad": "吃",
+      "simp": "吃",
+      "pinyin": "chī",
+      "pos": "V",
+      "english": "to eat"
     },
     {
       "idx": 19,
-      "trad": "第",
-      "simp": "第",
-      "pinyin": "dì",
-      "pos": "Prefix",
-      "english": "ordinal number prefix"
+      "trad": "魚",
+      "simp": "鱼",
+      "pinyin": "yú",
+      "pos": "N",
+      "english": "fish"
     },
     {
       "idx": 20,
-      "trad": "一塊兒",
-      "simp": "一块儿",
-      "pinyin": "yíkuàir",
-      "pos": "Adv.",
-      "english": "together"
+      "trad": "大米",
+      "simp": "大米",
+      "pinyin": "dàmǐ",
+      "pos": "N",
+      "english": "rice (uncooked rice)"
     },
     {
       "idx": 21,
-      "trad": "如果",
-      "simp": "如果",
-      "pinyin": "rúguǒ",
-      "pos": "Conj.",
-      "english": "if; in case"
+      "trad": "北",
+      "simp": "北",
+      "pinyin": "běi",
+      "pos": "N",
+      "english": "north"
     },
     {
       "idx": 22,
-      "trad": "看見",
-      "simp": "看见",
-      "pinyin": "kànjiàn",
-      "pos": "VP",
-      "english": "to see"
+      "trad": "北方",
+      "simp": "北方",
+      "pinyin": "běifāng",
+      "pos": "N",
+      "english": "the north"
     },
     {
       "idx": 23,
-      "trad": "那麼",
-      "simp": "那么",
-      "pinyin": "nàme",
-      "pos": "Conj.",
-      "english": "then; therefore"
+      "trad": "一樣",
+      "simp": "一样",
+      "pinyin": "yíyàng",
+      "pos": "SV",
+      "english": "same"
     },
     {
       "idx": 24,
-      "trad": "會",
-      "simp": "会",
-      "pinyin": "huì",
-      "pos": "MV/V",
-      "english": "will; would; to know how to"
+      "trad": "冬天",
+      "simp": "冬天",
+      "pinyin": "dōngtiān",
+      "pos": "N",
+      "english": "winter"
     },
     {
       "idx": 25,
-      "trad": "非常",
-      "simp": "非常",
-      "pinyin": "fēicháng",
-      "pos": "Adv.",
-      "english": "extremely; unusually; extraordinarily"
+      "trad": "冷",
+      "simp": "冷",
+      "pinyin": "lěng",
+      "pos": "SV",
+      "english": "cold"
     },
     {
       "idx": 26,
-      "trad": "地上",
-      "simp": "地上",
-      "pinyin": "dìshang",
-      "pos": "N",
-      "english": "(on) the ground; on the earth"
+      "trad": "下雪",
+      "simp": "下雪",
+      "pinyin": "xiàxuě",
+      "pos": "VO",
+      "english": "to snow"
     },
     {
       "idx": 27,
-      "trad": "馬上",
-      "simp": "马上",
-      "pinyin": "mǎshàng",
-      "pos": "Adv.",
-      "english": "immediately"
+      "trad": "那兒",
+      "simp": "那儿",
+      "pinyin": "nàr",
+      "pos": "PW",
+      "english": "there"
     },
     {
       "idx": 28,
-      "trad": "變得",
-      "simp": "变得",
-      "pinyin": "biànde",
-      "pos": "VP",
-      "english": "to become"
+      "trad": "因為……所以",
+      "simp": "因为……所以",
+      "pinyin": "yīnwèi…suǒyǐ",
+      "pos": "Conj.",
+      "english": "because ... so ..."
     },
     {
       "idx": 29,
-      "trad": "死",
-      "simp": "死",
-      "pinyin": "sǐ",
-      "pos": "V",
-      "english": "to die"
+      "trad": "麵",
+      "simp": "面",
+      "pinyin": "miàn",
+      "pos": "N",
+      "english": "(wheat) flour"
     },
     {
       "idx": 30,
-      "trad": "神",
-      "simp": "神",
-      "pinyin": "shén",
+      "trad": "西",
+      "simp": "西",
+      "pinyin": "xī",
       "pos": "N",
-      "english": "god; spiritual being"
+      "english": "west"
     },
     {
       "idx": 31,
-      "trad": "事情",
-      "simp": "事情",
-      "pinyin": "shìqing",
+      "trad": "東",
+      "simp": "东",
+      "pinyin": "dōng",
       "pos": "N",
-      "english": "matter; event; thing; business"
+      "english": "east"
     },
     {
       "idx": 32,
-      "trad": "生氣",
-      "simp": "生气",
-      "pinyin": "shēngqì",
-      "pos": "V/SV",
-      "english": "to get angry; to take offense; angry"
+      "trad": "低",
+      "simp": "低",
+      "pinyin": "dī",
+      "pos": "SV/V",
+      "english": "low; to lower"
     },
     {
       "idx": 33,
-      "trad": "叫",
-      "simp": "叫",
-      "pinyin": "jiào",
-      "pos": "V",
-      "english": "to ask; to order; to call; to shout"
+      "trad": "從",
+      "simp": "从",
+      "pinyin": "cóng",
+      "pos": "Prep.",
+      "english": "from"
     },
     {
       "idx": 34,
-      "trad": "力氣",
-      "simp": "力气",
-      "pinyin": "lìqi",
-      "pos": "N",
-      "english": "physical strength; effort"
+      "trad": "往",
+      "simp": "往",
+      "pinyin": "wǎng",
+      "pos": "Prep.",
+      "english": "toward"
     },
     {
       "idx": 35,
-      "trad": "射",
-      "simp": "射",
-      "pinyin": "shè",
+      "trad": "流",
+      "simp": "流",
+      "pinyin": "liú",
       "pos": "V",
-      "english": "to shoot"
+      "english": "to flow"
     },
     {
       "idx": 36,
-      "trad": "箭",
-      "simp": "箭",
-      "pinyin": "jiàn",
-      "pos": "N",
-      "english": "arrow"
+      "trad": "寬",
+      "simp": "宽",
+      "pinyin": "kuān",
+      "pos": "SV",
+      "english": "wide"
     },
     {
       "idx": 37,
-      "trad": "羿",
-      "simp": "羿",
-      "pinyin": "Yì",
-      "pos": "PN",
-      "english": "the name of the god who, according to legend, shot down nine suns"
+      "trad": "窄",
+      "simp": "窄",
+      "pinyin": "zhǎi",
+      "pos": "SV",
+      "english": "narrow"
     },
     {
       "idx": 38,
-      "trad": "難過",
-      "simp": "难过",
-      "pinyin": "nánguò",
-      "pos": "SV",
-      "english": "sad; aggrieved"
+      "trad": "兩邊",
+      "simp": "两边",
+      "pinyin": "liǎngbiān",
+      "pos": "PW",
+      "english": "both sides"
     },
     {
       "idx": 39,
-      "trad": "跑",
-      "simp": "跑",
-      "pinyin": "pǎo",
-      "pos": "V",
-      "english": "run"
+      "trad": "好看",
+      "simp": "好看",
+      "pinyin": "hǎokàn",
+      "pos": "SV",
+      "english": "pretty; good-looking"
     },
     {
       "idx": 40,
-      "trad": "過日子",
-      "simp": "过日子",
-      "pinyin": "guò rìzi",
-      "pos": "VO",
-      "english": "to live (one's life)"
+      "trad": "城市",
+      "simp": "城市",
+      "pinyin": "chéngshì",
+      "pos": "N",
+      "english": "city"
     },
     {
       "idx": 41,
-      "trad": "昨天",
-      "simp": "昨天",
-      "pinyin": "zuótiān",
-      "pos": "TW",
-      "english": "yesterday"
+      "trad": "經過",
+      "simp": "经过",
+      "pinyin": "jīngguò",
+      "pos": "V",
+      "english": "to pass through"
     },
     {
       "idx": 42,
-      "trad": "晚上",
-      "simp": "晚上",
-      "pinyin": "wǎnshang",
+      "trad": "首都",
+      "simp": "首都",
+      "pinyin": "shǒudū",
       "pos": "N",
-      "english": "evening"
+      "english": "capital"
     },
     {
       "idx": 43,
-      "trad": "天氣",
-      "simp": "天气",
-      "pinyin": "tiānqì",
-      "pos": "N",
-      "english": "weather"
+      "trad": "前頭",
+      "simp": "前头",
+      "pinyin": "qiántou",
+      "pos": "PW",
+      "english": "in front"
     },
     {
       "idx": 44,
-      "trad": "吃飯",
-      "simp": "吃饭",
-      "pinyin": "chīfàn",
-      "pos": "VO",
-      "english": "to eat (a meal); to have a meal"
+      "trad": "房子",
+      "simp": "房子",
+      "pinyin": "fángzi",
+      "pos": "N",
+      "english": "house"
     },
     {
       "idx": 45,
-      "trad": "怕",
-      "simp": "怕",
-      "pinyin": "pà",
-      "pos": "V",
-      "english": "to be afraid; fear"
+      "trad": "面",
+      "simp": "面",
+      "pinyin": "miàn",
+      "pos": "N/Loc.",
+      "english": "side"
     },
     {
       "idx": 46,
-      "trad": "總算",
-      "simp": "总算",
-      "pinyin": "zǒngsuàn",
-      "pos": "Adv.",
-      "english": "finally; at last"
+      "trad": "左",
+      "simp": "左",
+      "pinyin": "zuǒ",
+      "pos": "N/Loc.",
+      "english": "left"
     },
     {
       "idx": 47,
-      "trad": "舒服",
-      "simp": "舒服",
-      "pinyin": "shūfu",
-      "pos": "SV",
-      "english": "comfortable"
+      "trad": "右",
+      "simp": "右",
+      "pinyin": "yòu",
+      "pos": "N/Loc.",
+      "english": "right"
     },
     {
       "idx": 48,
-      "trad": "睡",
-      "simp": "睡",
-      "pinyin": "shuì",
-      "pos": "V",
-      "english": "to sleep"
+      "trad": "中間",
+      "simp": "中间",
+      "pinyin": "zhōngjiān",
+      "pos": "PW",
+      "english": "middle"
     },
     {
       "idx": 49,
-      "trad": "季節",
-      "simp": "季节",
-      "pinyin": "jìjié",
-      "pos": "N",
-      "english": "season (of the year)"
+      "trad": "真",
+      "simp": "真",
+      "pinyin": "zhēn",
+      "pos": "Adv.",
+      "english": "really; truly"
     },
     {
       "idx": 50,
-      "trad": "風",
-      "simp": "风",
-      "pinyin": "fēng",
+      "trad": "後頭",
+      "simp": "后头",
+      "pinyin": "hòutou",
+      "pos": "PW",
+      "english": "behind"
+    },
+    {
+      "idx": 51,
+      "trad": "所",
+      "simp": "所",
+      "pinyin": "suǒ",
+      "pos": "M",
+      "english": "measure word for buildings"
+    },
+    {
+      "idx": 52,
+      "trad": "外",
+      "simp": "外",
+      "pinyin": "wài",
+      "pos": "Loc.",
+      "english": "outside"
+    },
+    {
+      "idx": 53,
+      "trad": "旁邊",
+      "simp": "旁边",
+      "pinyin": "pángbiān",
+      "pos": "PW",
+      "english": "side"
+    },
+    {
+      "idx": 54,
+      "trad": "棵",
+      "simp": "棵",
+      "pinyin": "kē",
+      "pos": "M",
+      "english": "measure word for tree, etc."
+    },
+    {
+      "idx": 55,
+      "trad": "下",
+      "simp": "下",
+      "pinyin": "xià",
+      "pos": "Loc.",
+      "english": "under"
+    },
+    {
+      "idx": 56,
+      "trad": "累",
+      "simp": "累",
+      "pinyin": "lèi",
+      "pos": "SV",
+      "english": "tired"
+    },
+    {
+      "idx": 57,
+      "trad": "哪兒",
+      "simp": "哪儿",
+      "pinyin": "nǎr",
+      "pos": "QW",
+      "english": "where"
+    },
+    {
+      "idx": 58,
+      "trad": "樓",
+      "simp": "楼",
+      "pinyin": "lóu",
       "pos": "N",
-      "english": "wind"
+      "english": "storied building; floor"
+    },
+    {
+      "idx": 59,
+      "trad": "工作",
+      "simp": "工作",
+      "pinyin": "gōngzuò",
+      "pos": "V/N",
+      "english": "to work; job"
+    },
+    {
+      "idx": 60,
+      "trad": "書",
+      "simp": "书",
+      "pinyin": "shū",
+      "pos": "N",
+      "english": "book"
     }
   ]
 }
